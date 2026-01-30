@@ -31,7 +31,7 @@
         bottom: 12px;
         width: 480px;
         height: 480px;
-        background: url("Textures/Emoji_Yulia.png") no-repeat;
+        background: url("Emoji_Yulia.png") no-repeat;
         background-size: contain;
         opacity: 0.5;
         pointer-events: none;
@@ -76,7 +76,8 @@
       .type-tabs,
       .lang-tabs,
       .nation-tabs,
-      .rank-tabs {
+      .rank-tabs,
+      .sort-bar {
         display: flex;
         flex-wrap: wrap;
         gap: 8px;
@@ -90,13 +91,21 @@
       .type-tabs button,
       .lang-tabs button,
       .nation-tabs button,
-      .rank-tabs button {
+      .rank-tabs button,
+      .sort-bar button {
         border: 1px solid var(--border);
         background: var(--panel);
         color: var(--text);
         padding: 6px 10px;
         border-radius: 999px;
         cursor: pointer;
+      }
+      .sort-bar select {
+        border: 1px solid var(--border);
+        background: var(--panel);
+        color: var(--text);
+        padding: 6px 10px;
+        border-radius: 8px;
       }
       .type-tabs button.active,
       .lang-tabs button.active,
@@ -215,6 +224,11 @@
         <div id="langTabs" class="lang-tabs lang-float"></div>
         <div class="toolbar">
           <input id="search" class="search" placeholder="搜索坦克名称…" />
+          <div class="sort-bar">
+            <span id="sortLabel">排序</span>
+            <select id="sortSelect"></select>
+            <button id="sortDir" type="button">↓</button>
+          </div>
           <div id="typeTabs" class="type-tabs"></div>
           <div id="nationTabs" class="nation-tabs"></div>
           <div id="rankTabs" class="rank-tabs"></div>
@@ -1899,12 +1913,16 @@
         "powerToWeight":  12
     },
     {
-        "name":  null,
-        "nameKey":  "\"Tank_Germany_Brummb\\xE4r_Name\"",
+        "name":  "灰熊",
+        "nameKey":  "Tank_Germany_Brummbär_Name",
         "nameByLang":  {
-
+                           "ru":  "Sturmpanzer 43",
+                           "en":  "Sturmpanzer 43",
+                           "ja":  "ブルムベア",
+                           "zh-Hans":  "灰熊",
+                           "zh-Hant":  "灰熊式突擊炮"
                        },
-        "assetName":  "\"Brummb\\xE4r\"",
+        "assetName":  "Brummbär",
         "tankType":  6,
         "nation":  0,
         "rank":  5,
@@ -2851,50 +2869,6 @@
         "armor":  {
                       "front":  31,
                       "sides":  18,
-                      "rear":  16
-                  },
-        "enginePower":  1150,
-        "maxSpeed":  38,
-        "weight":  139.5,
-        "powerToWeight":  8.24
-    },
-    {
-        "name":  "E-100",
-        "nameKey":  "Tank_Germany_E-100_Name",
-        "nameByLang":  {
-                           "ru":  "E-100",
-                           "en":  "E-100",
-                           "ja":  "E-100",
-                           "zh-Hans":  "E-100",
-                           "zh-Hant":  "E-100超重坦克"
-                       },
-        "assetName":  "E-100_150HE",
-        "tankType":  2,
-        "nation":  0,
-        "rank":  9,
-        "icon":  "Textures/Tank_E-100_150HE.png",
-        "hide":  0,
-        "isBoss":  0,
-        "weapon":  {
-                       "warheadType":  2,
-                       "warheadKey":  "WarheadType_HE",
-                       "warheadNameByLang":  {
-                                                 "ru":  "ОФ",
-                                                 "en":  "HE",
-                                                 "ja":  "榴弾",
-                                                 "zh-Hans":  "高爆弹",
-                                                 "zh-Hant":  "高爆彈"
-                                             },
-                       "penetration":  7,
-                       "damage":  23,
-                       "reloadTime":  19,
-                       "range":  20.364294
-                   },
-        "isSpecial":  0,
-        "isMultiTurretTank":  0,
-        "armor":  {
-                      "front":  31,
-                      "sides":  10,
                       "rear":  16
                   },
         "enginePower":  1150,
@@ -4925,50 +4899,6 @@
         "maxSpeed":  38,
         "weight":  14,
         "powerToWeight":  17.86
-    },
-    {
-        "name":  "M24“霞飞”",
-        "nameKey":  "Tank_US_M24_Name",
-        "nameByLang":  {
-                           "ru":  "M24",
-                           "en":  "M24",
-                           "ja":  "M24",
-                           "zh-Hans":  "M24“霞飞”",
-                           "zh-Hant":  "M24霞飛"
-                       },
-        "assetName":  "LVT(A)-4_M24",
-        "tankType":  1,
-        "nation":  2,
-        "rank":  4,
-        "icon":  "Textures/Tank_M24.png",
-        "hide":  0,
-        "isBoss":  0,
-        "weapon":  {
-                       "warheadType":  1,
-                       "warheadKey":  "WarheadType_AP",
-                       "warheadNameByLang":  {
-                                                 "ru":  "ББ",
-                                                 "en":  "AP",
-                                                 "ja":  "徹甲弾",
-                                                 "zh-Hans":  "穿甲弹",
-                                                 "zh-Hant":  "穿甲彈"
-                                             },
-                       "penetration":  10,
-                       "damage":  3,
-                       "reloadTime":  6.5,
-                       "range":  19.6377
-                   },
-        "isSpecial":  0,
-        "isMultiTurretTank":  0,
-        "armor":  {
-                      "front":  5,
-                      "sides":  3,
-                      "rear":  2
-                  },
-        "enginePower":  220,
-        "maxSpeed":  56,
-        "weight":  20,
-        "powerToWeight":  11
     },
     {
         "name":  "M16",
@@ -8784,6 +8714,8 @@
           maxSpeed: "Max Speed",
           weight: "Weight",
           powerToWeight: "Power/Weight",
+          sort: "Sort",
+          sortRank: "Rank",
           ammoType: "Ammo",
           penetration: "Penetration",
           damage: "Damage",
@@ -8808,6 +8740,8 @@
           maxSpeed: "最大速度",
           weight: "重量",
           powerToWeight: "功重比",
+          sort: "排序",
+          sortRank: "等级",
           ammoType: "弹药",
           penetration: "穿深",
           damage: "后效",
@@ -8832,6 +8766,8 @@
           maxSpeed: "最大速度",
           weight: "重量",
           powerToWeight: "功重比",
+          sort: "排序",
+          sortRank: "等级",
           ammoType: "彈藥",
           penetration: "穿深",
           damage: "後效",
@@ -8856,6 +8792,8 @@
           maxSpeed: "最高速度",
           weight: "重量",
           powerToWeight: "出力重量比",
+          sort: "並び替え",
+          sortRank: "ランク",
           ammoType: "弾種",
           penetration: "装甲貫通力",
           damage: "破壊力",
@@ -8880,6 +8818,8 @@
           maxSpeed: "Скорость",
           weight: "Масса",
           powerToWeight: "Мощность/т",
+          sort: "Сортировка",
+          sortRank: "Ранг",
           ammoType: "Боеприпас",
           penetration: "Пробитие",
           damage: "Урон",
@@ -9063,6 +9003,8 @@ const SPECIAL_LABELS_BY_LANG = {
         filterType: "ALL",
         nation: "ALL",
         rank: "ALL",
+        sortKey: "rank",
+        sortDir: "asc",
         lang: "zh-Hans",
         keyword: ""
       };
@@ -9074,6 +9016,9 @@ const SPECIAL_LABELS_BY_LANG = {
       const $langTabs = document.getElementById("langTabs");
       const $nationTabs = document.getElementById("nationTabs");
       const $rankTabs = document.getElementById("rankTabs");
+      const $sortSelect = document.getElementById("sortSelect");
+      const $sortDir = document.getElementById("sortDir");
+      const $sortLabel = document.getElementById("sortLabel");
       const $footerText = document.getElementById("footerText");
 
       function normalizeKeyword(value) {
@@ -9270,6 +9215,48 @@ const SPECIAL_LABELS_BY_LANG = {
         });
       }
 
+      function getDefaultSortDir(key) {
+        if (key === "reload" || key === "rank") return "asc";
+        return "desc";
+      }
+
+      function buildSortOptions() {
+        const options = [
+          { key: "rank", label: t("sortRank") },
+          { key: "penetration", label: t("penetration") },
+          { key: "damage", label: t("damage") },
+          { key: "reload", label: t("reload") },
+          { key: "armor", label: t("armor") },
+          { key: "weight", label: t("weight") },
+          { key: "enginePower", label: t("enginePower") },
+          { key: "powerToWeight", label: t("powerToWeight") }
+        ];
+        $sortSelect.innerHTML = "";
+        options.forEach((opt) => {
+          const option = document.createElement("option");
+          option.value = opt.key;
+          option.textContent = opt.label;
+          $sortSelect.appendChild(option);
+        });
+        $sortSelect.value = state.sortKey;
+        $sortLabel.textContent = t("sort");
+        $sortDir.textContent = state.sortDir === "asc" ? "↑" : "↓";
+      }
+
+      function bindSortControls() {
+        $sortSelect.onchange = () => {
+          state.sortKey = $sortSelect.value;
+          state.sortDir = getDefaultSortDir(state.sortKey);
+          buildSortOptions();
+          render();
+        };
+        $sortDir.onclick = () => {
+          state.sortDir = state.sortDir === "asc" ? "desc" : "asc";
+          buildSortOptions();
+          render();
+        };
+      }
+
       function updateLangTab() {
         $langTabs.querySelectorAll("button").forEach((btn) => {
           btn.classList.toggle("active", btn.dataset.lang === state.lang);
@@ -9285,6 +9272,7 @@ const SPECIAL_LABELS_BY_LANG = {
         buildTypeTabs();
         buildNationTabs();
         buildRankTabs();
+        buildSortOptions();
         updateLangTab();
       }
 
@@ -9329,14 +9317,7 @@ const SPECIAL_LABELS_BY_LANG = {
         });
         const result = Array.from(groups.entries()).sort((a, b) => a[0] - b[0]);
         result.forEach((entry) => {
-          entry[1].sort((a, b) => {
-            const ra = typeof a.rank === "number" ? a.rank : 9999;
-            const rb = typeof b.rank === "number" ? b.rank : 9999;
-            if (ra !== rb) return ra - rb;
-            const na = getTankName(a) || "";
-            const nb = getTankName(b) || "";
-            return na.localeCompare(nb);
-          });
+          sortList(entry[1]);
         });
         return result;
       }
@@ -9393,6 +9374,59 @@ const SPECIAL_LABELS_BY_LANG = {
         if (tank.weight === null || tank.weight === undefined) return t("unknown");
         if (!Number.isFinite(tank.weight)) return t("unknown");
         return `${formatStat(tank.weight)}t`;
+      }
+
+      function getArmorSum(tank) {
+        const armor = tank.armor || {};
+        const front = typeof armor.front === "number" ? armor.front : 0;
+        const sides = typeof armor.sides === "number" ? armor.sides : 0;
+        const rear = typeof armor.rear === "number" ? armor.rear : 0;
+        if (!front && !sides && !rear) return null;
+        return front + sides + rear;
+      }
+
+      function getSortValue(tank) {
+        const weapon = tank.weapon || {};
+        const hideType = isHideType(weapon);
+        switch (state.sortKey) {
+          case "penetration":
+            return typeof weapon.penetration === "number" ? (hideType ? 0 : weapon.penetration) : null;
+          case "damage":
+            return typeof weapon.damage === "number" ? (hideType ? 0 : weapon.damage) : null;
+          case "reload":
+            return typeof weapon.reloadTime === "number" ? weapon.reloadTime : null;
+          case "armor":
+            return getArmorSum(tank);
+          case "weight":
+            return typeof tank.weight === "number" ? tank.weight : null;
+          case "enginePower":
+            return typeof tank.enginePower === "number" ? tank.enginePower : null;
+          case "powerToWeight":
+            return typeof tank.powerToWeight === "number" ? tank.powerToWeight : null;
+          case "rank":
+          default:
+            return typeof tank.rank === "number" ? tank.rank : null;
+        }
+      }
+
+      function sortList(list) {
+        list.sort((a, b) => {
+          const av = getSortValue(a);
+          const bv = getSortValue(b);
+          if (av === null && bv === null) {
+            const na = getTankName(a) || "";
+            const nb = getTankName(b) || "";
+            return na.localeCompare(nb);
+          }
+          if (av === null) return 1;
+          if (bv === null) return -1;
+          if (av !== bv) {
+            return state.sortDir === "asc" ? av - bv : bv - av;
+          }
+          const na = getTankName(a) || "";
+          const nb = getTankName(b) || "";
+          return na.localeCompare(nb);
+        });
       }
 
       function createCard(tank) {
@@ -9485,6 +9519,23 @@ const SPECIAL_LABELS_BY_LANG = {
           return;
         }
         $status.style.display = "none";
+        if (state.filterType === "ALL") {
+          const section = document.createElement("section");
+          section.className = "section";
+          const h2 = document.createElement("h2");
+          h2.textContent = getTypeLabel("ALL");
+          const count = document.createElement("small");
+          count.textContent = `(${items.length})`;
+          h2.appendChild(count);
+          const grid = document.createElement("div");
+          grid.className = "grid";
+          sortList(items);
+          items.forEach((tank) => grid.appendChild(createCard(tank)));
+          section.appendChild(h2);
+          section.appendChild(grid);
+          $content.appendChild(section);
+          return;
+        }
         if (state.filterType === "BOSS" || state.filterType === "MTT" || state.filterType === "SPECIAL") {
           const section = document.createElement("section");
           section.className = "section";
@@ -9495,14 +9546,7 @@ const SPECIAL_LABELS_BY_LANG = {
           h2.appendChild(count);
           const grid = document.createElement("div");
           grid.className = "grid";
-          items.sort((a, b) => {
-            const ra = typeof a.rank === "number" ? a.rank : 9999;
-            const rb = typeof b.rank === "number" ? b.rank : 9999;
-            if (ra !== rb) return ra - rb;
-            const na = getTankName(a) || "";
-            const nb = getTankName(b) || "";
-            return na.localeCompare(nb);
-          });
+          sortList(items);
           items.forEach((tank) => grid.appendChild(createCard(tank)));
           section.appendChild(h2);
           section.appendChild(grid);
@@ -9541,6 +9585,7 @@ const SPECIAL_LABELS_BY_LANG = {
             state.lang = detectLanguage();
           }
           buildLangTabs();
+          bindSortControls();
           applyLanguage();
           render();
         } catch (err) {
@@ -9558,6 +9603,9 @@ const SPECIAL_LABELS_BY_LANG = {
     </script>
   </body>
 </html>
+
+
+
 
 
 

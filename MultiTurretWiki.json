@@ -1668,12 +1668,16 @@
         "powerToWeight":  12
     },
     {
-        "name":  null,
-        "nameKey":  "\"Tank_Germany_Brummb\\xE4r_Name\"",
+        "name":  "灰熊",
+        "nameKey":  "Tank_Germany_Brummbär_Name",
         "nameByLang":  {
-
+                           "ru":  "Sturmpanzer 43",
+                           "en":  "Sturmpanzer 43",
+                           "ja":  "ブルムベア",
+                           "zh-Hans":  "灰熊",
+                           "zh-Hant":  "灰熊式突擊炮"
                        },
-        "assetName":  "\"Brummb\\xE4r\"",
+        "assetName":  "Brummbär",
         "tankType":  6,
         "nation":  0,
         "rank":  5,
@@ -2620,50 +2624,6 @@
         "armor":  {
                       "front":  31,
                       "sides":  18,
-                      "rear":  16
-                  },
-        "enginePower":  1150,
-        "maxSpeed":  38,
-        "weight":  139.5,
-        "powerToWeight":  8.24
-    },
-    {
-        "name":  "E-100",
-        "nameKey":  "Tank_Germany_E-100_Name",
-        "nameByLang":  {
-                           "ru":  "E-100",
-                           "en":  "E-100",
-                           "ja":  "E-100",
-                           "zh-Hans":  "E-100",
-                           "zh-Hant":  "E-100超重坦克"
-                       },
-        "assetName":  "E-100_150HE",
-        "tankType":  2,
-        "nation":  0,
-        "rank":  9,
-        "icon":  "Textures/Tank_E-100_150HE.png",
-        "hide":  0,
-        "isBoss":  0,
-        "weapon":  {
-                       "warheadType":  2,
-                       "warheadKey":  "WarheadType_HE",
-                       "warheadNameByLang":  {
-                                                 "ru":  "ОФ",
-                                                 "en":  "HE",
-                                                 "ja":  "榴弾",
-                                                 "zh-Hans":  "高爆弹",
-                                                 "zh-Hant":  "高爆彈"
-                                             },
-                       "penetration":  7,
-                       "damage":  23,
-                       "reloadTime":  19,
-                       "range":  20.364294
-                   },
-        "isSpecial":  0,
-        "isMultiTurretTank":  0,
-        "armor":  {
-                      "front":  31,
-                      "sides":  10,
                       "rear":  16
                   },
         "enginePower":  1150,
@@ -4694,50 +4654,6 @@
         "maxSpeed":  38,
         "weight":  14,
         "powerToWeight":  17.86
-    },
-    {
-        "name":  "M24“霞飞”",
-        "nameKey":  "Tank_US_M24_Name",
-        "nameByLang":  {
-                           "ru":  "M24",
-                           "en":  "M24",
-                           "ja":  "M24",
-                           "zh-Hans":  "M24“霞飞”",
-                           "zh-Hant":  "M24霞飛"
-                       },
-        "assetName":  "LVT(A)-4_M24",
-        "tankType":  1,
-        "nation":  2,
-        "rank":  4,
-        "icon":  "Textures/Tank_M24.png",
-        "hide":  0,
-        "isBoss":  0,
-        "weapon":  {
-                       "warheadType":  1,
-                       "warheadKey":  "WarheadType_AP",
-                       "warheadNameByLang":  {
-                                                 "ru":  "ББ",
-                                                 "en":  "AP",
-                                                 "ja":  "徹甲弾",
-                                                 "zh-Hans":  "穿甲弹",
-                                                 "zh-Hant":  "穿甲彈"
-                                             },
-                       "penetration":  10,
-                       "damage":  3,
-                       "reloadTime":  6.5,
-                       "range":  19.6377
-                   },
-        "isSpecial":  0,
-        "isMultiTurretTank":  0,
-        "armor":  {
-                      "front":  5,
-                      "sides":  3,
-                      "rear":  2
-                  },
-        "enginePower":  220,
-        "maxSpeed":  56,
-        "weight":  20,
-        "powerToWeight":  11
     },
     {
         "name":  "M16",
