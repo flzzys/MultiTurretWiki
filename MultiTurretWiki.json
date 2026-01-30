@@ -3,11 +3,11 @@
         "name":  "哨兵(双联25磅炮)",
         "nameKey":  "Tank_Australia_AC E1_Name",
         "nameByLang":  {
+                           "ru":  "AC E1",
                            "en":  "AC E1",
-                           "zh-Hans":  "哨兵(双联25磅炮)",
-                           "zh-Hant":  "哨兵(雙聯25磅炮)",
                            "ja":  "センチネル(連装25ポンド砲)",
-                           "ru":  "AC E1"
+                           "zh-Hans":  "哨兵(双联25磅炮)",
+                           "zh-Hant":  "哨兵(雙聯25磅炮)"
                        },
         "assetName":  "AC E1",
         "tankType":  6,
@@ -45,11 +45,11 @@
         "name":  "石龙子",
         "nameKey":  "Tank_Canada_Skink_Name",
         "nameByLang":  {
+                           "ru":  "Skink",
                            "en":  "Skink",
-                           "zh-Hans":  "石龙子",
-                           "zh-Hant":  "石龍子",
                            "ja":  "スキンク対空戦車",
-                           "ru":  "Skink"
+                           "zh-Hans":  "石龙子",
+                           "zh-Hant":  "石龍子"
                        },
         "assetName":  "Skink",
         "tankType":  4,
@@ -87,11 +87,11 @@
         "name":  "LVT(A)-4/ZiS-2",
         "nameKey":  "Tank_China_LVT(ZiS-2)_Name",
         "nameByLang":  {
+                           "ru":  "LVT(A)-4/ЗиС-2",
                            "en":  "LVT(A)-4/ZiS-2",
-                           "zh-Hans":  "LVT(A)-4/ZiS-2",
-                           "zh-Hant":  "LVT(A)-4/ZiS-2",
                            "ja":  "LVT(A)-4/ZiS-2",
-                           "ru":  "LVT(A)-4/ЗиС-2"
+                           "zh-Hans":  "LVT(A)-4/ZiS-2",
+                           "zh-Hant":  "LVT(A)-4/ZiS-2"
                        },
         "assetName":  "LVT(ZiS-2)",
         "tankType":  3,
@@ -129,11 +129,11 @@
         "name":  "雷诺FT",
         "nameKey":  "Tank_France_Renault FT_Name",
         "nameByLang":  {
+                           "ru":  "Renault FT",
                            "en":  "Renault FT",
-                           "zh-Hans":  "雷诺FT",
-                           "zh-Hant":  "雷諾FT",
                            "ja":  "ルノーFT",
-                           "ru":  "Renault FT"
+                           "zh-Hans":  "雷诺FT",
+                           "zh-Hant":  "雷諾FT"
                        },
         "assetName":  "Renault FT",
         "tankType":  1,
@@ -171,11 +171,11 @@
         "name":  "B1Bis",
         "nameKey":  "Tank_France_B1Bis_Name",
         "nameByLang":  {
+                           "ru":  "B1 Bis",
                            "en":  "B1 Bis",
-                           "zh-Hans":  "B1Bis",
-                           "zh-Hant":  "B1Bis",
                            "ja":  "B1Bis",
-                           "ru":  "B1 Bis"
+                           "zh-Hans":  "B1Bis",
+                           "zh-Hant":  "B1Bis"
                        },
         "assetName":  "B1Bis",
         "tankType":  2,
@@ -213,11 +213,11 @@
         "name":  "索玛S35",
         "nameKey":  "Tank_France_SomuaS35_Name",
         "nameByLang":  {
+                           "ru":  "Somua S35",
                            "en":  "Somua S35",
-                           "zh-Hans":  "索玛S35",
-                           "zh-Hant":  "索姆亞S35",
                            "ja":  "ソミュア S35",
-                           "ru":  "Somua S35"
+                           "zh-Hans":  "索玛S35",
+                           "zh-Hant":  "索姆亞S35"
                        },
         "assetName":  "SomuaS35",
         "tankType":  0,
@@ -255,11 +255,11 @@
         "name":  "38t防空坦克",
         "nameKey":  "Tank_Germany_Flakpanzer 38_Name",
         "nameByLang":  {
+                           "ru":  "Flakpanzer 38(t)",
                            "en":  "Flakpanzer 38(t)",
-                           "zh-Hans":  "38t防空坦克",
-                           "zh-Hant":  "38t防空坦克",
                            "ja":  "38(t)対空戦車",
-                           "ru":  "Flakpanzer 38(t)"
+                           "zh-Hans":  "38t防空坦克",
+                           "zh-Hant":  "38t防空坦克"
                        },
         "assetName":  "Flakpanzer 38",
         "tankType":  4,
@@ -297,11 +297,11 @@
         "name":  "35t坦克",
         "nameKey":  "Tank_Germany_Pz.35_Name",
         "nameByLang":  {
+                           "ru":  "Pz.35(t)",
                            "en":  "Panzer 35(t)",
-                           "zh-Hans":  "35t坦克",
-                           "zh-Hant":  "35t坦克",
                            "ja":  "35(t)軽戦車",
-                           "ru":  "Pz.35(t)"
+                           "zh-Hans":  "35t坦克",
+                           "zh-Hant":  "35t坦克"
                        },
         "assetName":  "Pz.35",
         "tankType":  1,
@@ -339,11 +339,11 @@
         "name":  "一号坦克B型",
         "nameKey":  "Tank_Germany_Pz.I B_Name",
         "nameByLang":  {
+                           "ru":  "Pz.I B",
                            "en":  "Panzer I B",
-                           "zh-Hans":  "一号坦克B型",
-                           "zh-Hant":  "一號坦克B型",
                            "ja":  "I号戦車B型",
-                           "ru":  "Pz.I B"
+                           "zh-Hans":  "一号坦克B型",
+                           "zh-Hant":  "一號坦克B型"
                        },
         "assetName":  "Pz.I B",
         "tankType":  1,
@@ -381,11 +381,11 @@
         "name":  "一号坦克B型",
         "nameKey":  "Tank_Germany_Pz.I B_Name",
         "nameByLang":  {
+                           "ru":  "Pz.I B",
                            "en":  "Panzer I B",
-                           "zh-Hans":  "一号坦克B型",
-                           "zh-Hant":  "一號坦克B型",
                            "ja":  "I号戦車B型",
-                           "ru":  "Pz.I B"
+                           "zh-Hans":  "一号坦克B型",
+                           "zh-Hant":  "一號坦克B型"
                        },
         "assetName":  "Pz.I B_Elite",
         "tankType":  1,
@@ -423,11 +423,11 @@
         "name":  "I-III试验型坦克",
         "nameKey":  "Tank_Germany_Pz.I.III_Name",
         "nameByLang":  {
+                           "ru":  "Pz.I/III",
                            "en":  "Panzer I/III",
-                           "zh-Hans":  "I-III试验型坦克",
-                           "zh-Hant":  "I-III試驗型坦克",
                            "ja":  "I/III号実験戦車",
-                           "ru":  "Pz.I/III"
+                           "zh-Hans":  "I-III试验型坦克",
+                           "zh-Hant":  "I-III試驗型坦克"
                        },
         "assetName":  "Pz.I.III",
         "tankType":  1,
@@ -465,11 +465,11 @@
         "name":  "三号坦克E型",
         "nameKey":  "Tank_Germany_Pz.III E_Name",
         "nameByLang":  {
+                           "ru":  "Pz.III E",
                            "en":  "Panzer III E",
-                           "zh-Hans":  "三号坦克E型",
-                           "zh-Hant":  "三號坦克E型",
                            "ja":  "III号戦車E型",
-                           "ru":  "Pz.III E"
+                           "zh-Hans":  "三号坦克E型",
+                           "zh-Hant":  "三號坦克E型"
                        },
         "assetName":  "Pz.III E",
         "tankType":  0,
@@ -507,11 +507,11 @@
         "name":  "四号坦克D型",
         "nameKey":  "Tank_Germany_Pz.IV D_Name",
         "nameByLang":  {
+                           "ru":  "Pz.IV D",
                            "en":  "Panzer IV D",
-                           "zh-Hans":  "四号坦克D型",
-                           "zh-Hant":  "四號坦克D型",
                            "ja":  "IV号戦車D型",
-                           "ru":  "Pz.IV D"
+                           "zh-Hans":  "四号坦克D型",
+                           "zh-Hant":  "四號坦克D型"
                        },
         "assetName":  "Pz.IV D",
         "tankType":  0,
@@ -549,11 +549,11 @@
         "name":  "Sd.Kfz.2",
         "nameKey":  "Tank_Germany_Sd.Kfz.2_Name",
         "nameByLang":  {
+                           "ru":  "Sd.Kfz.2",
                            "en":  "Sd.Kfz. 2",
-                           "zh-Hans":  "Sd.Kfz.2",
-                           "zh-Hant":  "Sd.Kfz.2",
                            "ja":  "Sd.Kfz.2",
-                           "ru":  "Sd.Kfz.2"
+                           "zh-Hans":  "Sd.Kfz.2",
+                           "zh-Hant":  "Sd.Kfz.2"
                        },
         "assetName":  "Sd.Kfz.2",
         "tankType":  7,
@@ -591,11 +591,11 @@
         "name":  "三号潜水坦克",
         "nameKey":  "Tank_Germany_Tauchpanzer.III_Name",
         "nameByLang":  {
+                           "ru":  "Tauchpanzer III",
                            "en":  "Tauchpanzer III",
-                           "zh-Hans":  "三号潜水坦克",
-                           "zh-Hant":  "三號潛水戰車",
                            "ja":  "III号潜水戦車",
-                           "ru":  "Tauchpanzer III"
+                           "zh-Hans":  "三号潜水坦克",
+                           "zh-Hant":  "三號潛水戰車"
                        },
         "assetName":  "Tauchpanzer.III",
         "tankType":  0,
@@ -633,11 +633,11 @@
         "name":  "四号潜水坦克",
         "nameKey":  "Tank_Germany_Tauchpanzer.IV_Name",
         "nameByLang":  {
+                           "ru":  "Tauchpanzer IV",
                            "en":  "Tauchpanzer IV",
-                           "zh-Hans":  "四号潜水坦克",
-                           "zh-Hant":  "四號潛水戰車",
                            "ja":  "IV号潜水戦車",
-                           "ru":  "Tauchpanzer IV"
+                           "zh-Hans":  "四号潜水坦克",
+                           "zh-Hant":  "四號潛水戰車"
                        },
         "assetName":  "Tauchpanzer.IV",
         "tankType":  0,
@@ -675,11 +675,11 @@
         "name":  "四号弹药运载车",
         "nameKey":  "Tank_Germany_Ammo Carrier Pz.IV_Name",
         "nameByLang":  {
+                           "ru":  "ТЗМ на шасси Pz.IV",
                            "en":  "Ammo Carrier Pz.IV",
-                           "zh-Hans":  "四号弹药运载车",
-                           "zh-Hant":  "四號彈藥運載車",
                            "ja":  "IV号弾薬運搬車",
-                           "ru":  "ТЗМ на шасси Pz.IV"
+                           "zh-Hans":  "四号弹药运载车",
+                           "zh-Hant":  "四號彈藥運載車"
                        },
         "assetName":  "Ammo Carrier Pz.IV",
         "tankType":  7,
@@ -713,11 +713,11 @@
         "name":  "东风",
         "nameKey":  "Tank_Germany_Ostwind_Name",
         "nameByLang":  {
+                           "ru":  "Ostwind",
                            "en":  "Ostwind",
-                           "zh-Hans":  "东风",
-                           "zh-Hant":  "東風式防空坦克",
                            "ja":  "オストヴィント",
-                           "ru":  "Ostwind"
+                           "zh-Hans":  "东风",
+                           "zh-Hant":  "東風式防空坦克"
                        },
         "assetName":  "Ostwind",
         "tankType":  4,
@@ -755,11 +755,11 @@
         "name":  "三号坦克J型",
         "nameKey":  "Tank_Germany_Pz.III J_Name",
         "nameByLang":  {
+                           "ru":  "Pz.III J",
                            "en":  "Panzer III J",
-                           "zh-Hans":  "三号坦克J型",
-                           "zh-Hant":  "三號坦克J型",
                            "ja":  "III号戦車J型",
-                           "ru":  "Pz.III J"
+                           "zh-Hans":  "三号坦克J型",
+                           "zh-Hant":  "三號坦克J型"
                        },
         "assetName":  "Pz.III J",
         "tankType":  0,
@@ -797,11 +797,11 @@
         "name":  "三号坦克J型",
         "nameKey":  "Tank_Germany_Pz.III J_Name",
         "nameByLang":  {
+                           "ru":  "Pz.III J",
                            "en":  "Panzer III J",
-                           "zh-Hans":  "三号坦克J型",
-                           "zh-Hant":  "三號坦克J型",
                            "ja":  "III号戦車J型",
-                           "ru":  "Pz.III J"
+                           "zh-Hans":  "三号坦克J型",
+                           "zh-Hant":  "三號坦克J型"
                        },
         "assetName":  "Pz.III J_Elite",
         "tankType":  0,
@@ -839,11 +839,11 @@
         "name":  "三号坦克N型",
         "nameKey":  "Tank_Germany_Pz.III N_Name",
         "nameByLang":  {
+                           "ru":  "Pz.III N",
                            "en":  "Panzer III N",
-                           "zh-Hans":  "三号坦克N型",
-                           "zh-Hant":  "三號坦克N型",
                            "ja":  "III号戦車N型",
-                           "ru":  "Pz.III N"
+                           "zh-Hans":  "三号坦克N型",
+                           "zh-Hant":  "三號坦克N型"
                        },
         "assetName":  "Pz.III N",
         "tankType":  0,
@@ -881,11 +881,11 @@
         "name":  "四号坦克F1型",
         "nameKey":  "Tank_Germany_Pz.IV F1_Name",
         "nameByLang":  {
+                           "ru":  "Pz.IV F1",
                            "en":  "Panzer IV F1",
-                           "zh-Hans":  "四号坦克F1型",
-                           "zh-Hant":  "四號坦克F1型",
                            "ja":  "IV号戦車F1型",
-                           "ru":  "Pz.IV F1"
+                           "zh-Hans":  "四号坦克F1型",
+                           "zh-Hant":  "四號坦克F1型"
                        },
         "assetName":  "Pz.IV F1",
         "tankType":  0,
@@ -923,11 +923,11 @@
         "name":  "Sd.Kfz.231",
         "nameKey":  "Tank_Germany_Sd.Kfz.231_Name",
         "nameByLang":  {
+                           "ru":  "Sd.Kfz.231",
                            "en":  "Sd.Kfz. 231",
-                           "zh-Hans":  "Sd.Kfz.231",
-                           "zh-Hant":  "Sd.Kfz.231",
                            "ja":  "8輪Sd.Kfz.231",
-                           "ru":  "Sd.Kfz.231"
+                           "zh-Hans":  "Sd.Kfz.231",
+                           "zh-Hant":  "Sd.Kfz.231"
                        },
         "assetName":  "Sd.Kfz.231",
         "tankType":  7,
@@ -965,11 +965,11 @@
         "name":  "骡子火箭炮",
         "nameKey":  "Tank_Germany_Mule_Name",
         "nameByLang":  {
+                           "ru":  "15 cm Pz.W.42",
                            "en":  "15 cm Pz.W.42",
-                           "zh-Hans":  "骡子火箭炮",
-                           "zh-Hant":  "騾子火箭炮",
                            "ja":  "15cm Pz.W.42",
-                           "ru":  "15 cm Pz.W.42"
+                           "zh-Hans":  "骡子火箭炮",
+                           "zh-Hant":  "騾子火箭炮"
                        },
         "assetName":  "Mule",
         "tankType":  6,
@@ -1007,11 +1007,11 @@
         "name":  "二号坦克F型",
         "nameKey":  "Tank_Germany_Pz.II F_Name",
         "nameByLang":  {
+                           "ru":  "Pz.II F",
                            "en":  "Panzer II F",
-                           "zh-Hans":  "二号坦克F型",
-                           "zh-Hant":  "二號坦克F型",
                            "ja":  "II号戦車F型",
-                           "ru":  "Pz.II F"
+                           "zh-Hans":  "二号坦克F型",
+                           "zh-Hant":  "二號坦克F型"
                        },
         "assetName":  "Pz.II F",
         "tankType":  1,
@@ -1049,11 +1049,11 @@
         "name":  "二号坦克F型",
         "nameKey":  "Tank_Germany_Pz.II F_Name",
         "nameByLang":  {
+                           "ru":  "Pz.II F",
                            "en":  "Panzer II F",
-                           "zh-Hans":  "二号坦克F型",
-                           "zh-Hant":  "二號坦克F型",
                            "ja":  "II号戦車F型",
-                           "ru":  "Pz.II F"
+                           "zh-Hans":  "二号坦克F型",
+                           "zh-Hant":  "二號坦克F型"
                        },
         "assetName":  "Pz.II F_Pontoons",
         "tankType":  1,
@@ -1091,11 +1091,11 @@
         "name":  "四号坦克F2型",
         "nameKey":  "Tank_Germany_Pz.IV F2_Name",
         "nameByLang":  {
+                           "ru":  "Pz.IV F2",
                            "en":  "Panzer IV F2",
-                           "zh-Hans":  "四号坦克F2型",
-                           "zh-Hant":  "四號坦克F2型",
                            "ja":  "IV号戦車F2型",
-                           "ru":  "Pz.IV F2"
+                           "zh-Hans":  "四号坦克F2型",
+                           "zh-Hant":  "四號坦克F2型"
                        },
         "assetName":  "Pz.IV F2",
         "tankType":  0,
@@ -1133,11 +1133,11 @@
         "name":  "遥控鼠鼠",
         "nameKey":  "Tank_Germany_RCMaus_Name",
         "nameByLang":  {
+                           "ru":  "Радиомодель «Мауса»",
                            "en":  "RC Maus",
-                           "zh-Hans":  "遥控鼠鼠",
-                           "zh-Hant":  "遙控鼠鼠",
                            "ja":  "ラジコンマウス",
-                           "ru":  "Радиомодель «Мауса»"
+                           "zh-Hans":  "遥控鼠鼠",
+                           "zh-Hant":  "遙控鼠鼠"
                        },
         "assetName":  "RCMaus",
         "tankType":  1,
@@ -1175,11 +1175,11 @@
         "name":  "美洲狮",
         "nameKey":  "Tank_Germany_Sd.Kfz.234.2_Name",
         "nameByLang":  {
+                           "ru":  "Sd.Kfz.234/2",
                            "en":  "Sd.Kfz. 234/2",
-                           "zh-Hans":  "美洲狮",
-                           "zh-Hant":  "美洲獅",
                            "ja":  "Sd.Kfz.234/2",
-                           "ru":  "Sd.Kfz.234/2"
+                           "zh-Hans":  "美洲狮",
+                           "zh-Hant":  "美洲獅"
                        },
         "assetName":  "Sd.Kfz.234.2",
         "tankType":  7,
@@ -1217,11 +1217,11 @@
         "name":  "三号突击炮G型",
         "nameKey":  "Tank_Germany_StuG III G_Name",
         "nameByLang":  {
+                           "ru":  "StuG III G",
                            "en":  "StuG III G",
-                           "zh-Hans":  "三号突击炮G型",
-                           "zh-Hant":  "三號突擊炮G型",
                            "ja":  "III号突撃砲G型",
-                           "ru":  "StuG III G"
+                           "zh-Hans":  "三号突击炮G型",
+                           "zh-Hant":  "三號突擊炮G型"
                        },
         "assetName":  "StuG III G",
         "tankType":  3,
@@ -1259,11 +1259,11 @@
         "name":  "三号突击炮T型",
         "nameKey":  "Tank_Germany_StuG III T_Name",
         "nameByLang":  {
+                           "ru":  "StuG III Б",
                            "en":  "StuG III T",
-                           "zh-Hans":  "三号突击炮T型",
-                           "zh-Hant":  "三號突擊炮T型",
                            "ja":  "III号突撃砲T型",
-                           "ru":  "StuG III Б"
+                           "zh-Hans":  "三号突击炮T型",
+                           "zh-Hant":  "三號突擊炮T型"
                        },
         "assetName":  "StuG III T",
         "tankType":  3,
@@ -1301,11 +1301,11 @@
         "name":  "追猎者",
         "nameKey":  "Tank_Germany_Jagdpanzer38_Name",
         "nameByLang":  {
+                           "ru":  "Panzerjäger 38",
                            "en":  "Jagdpanzer 38",
-                           "zh-Hans":  "追猎者",
-                           "zh-Hant":  "追獵者",
                            "ja":  "ヘッツァー",
-                           "ru":  "Panzerjäger 38"
+                           "zh-Hans":  "追猎者",
+                           "zh-Hant":  "追獵者"
                        },
         "assetName":  "Jagdpanzer38",
         "tankType":  3,
@@ -1343,11 +1343,11 @@
         "name":  "山猫",
         "nameKey":  "Tank_Germany_Luchs_Name",
         "nameByLang":  {
+                           "ru":  "Luchs",
                            "en":  "Luchs",
-                           "zh-Hans":  "山猫",
-                           "zh-Hant":  "山猫",
                            "ja":  "ルクス",
-                           "ru":  "Luchs"
+                           "zh-Hans":  "山猫",
+                           "zh-Hant":  "山猫"
                        },
         "assetName":  "Luchs",
         "tankType":  1,
@@ -1385,11 +1385,11 @@
         "name":  "四号指挥坦克",
         "nameKey":  "Tank_Germany_Pz.Bef.Wg.IV J_Name",
         "nameByLang":  {
+                           "ru":  "Pz.Bef.Wg.IV J",
                            "en":  "Pz.Bef.Wg.IV J",
-                           "zh-Hans":  "四号指挥坦克",
-                           "zh-Hant":  "四號指揮坦克",
                            "ja":  "IV号指揮戦車",
-                           "ru":  "Pz.Bef.Wg.IV J"
+                           "zh-Hans":  "四号指挥坦克",
+                           "zh-Hant":  "四號指揮坦克"
                        },
         "assetName":  "Pz.Bef.Wg.IV J",
         "tankType":  0,
@@ -1427,11 +1427,11 @@
         "name":  "四号坦克H型",
         "nameKey":  "Tank_Germany_Pz.IV H_Name",
         "nameByLang":  {
+                           "ru":  "Pz.IV H",
                            "en":  "Panzer IV H",
-                           "zh-Hans":  "四号坦克H型",
-                           "zh-Hant":  "四號坦克H型",
                            "ja":  "IV号戦車H型",
-                           "ru":  "Pz.IV H"
+                           "zh-Hans":  "四号坦克H型",
+                           "zh-Hant":  "四號坦克H型"
                        },
         "assetName":  "Pz.IV H",
         "tankType":  0,
@@ -1469,11 +1469,11 @@
         "name":  "无后坐力炮试验车",
         "nameKey":  "Tank_Germany_Pz.IV_RFK43_Name",
         "nameByLang":  {
+                           "ru":  "Panzer IV(RfK43)",
                            "en":  "Panzer IV(RfK43)",
-                           "zh-Hans":  "无后坐力炮试验车",
-                           "zh-Hant":  "四號RfK43",
                            "ja":  "IV号戦車(RfK43)",
-                           "ru":  "Panzer IV(RfK43)"
+                           "zh-Hans":  "无后坐力炮试验车",
+                           "zh-Hant":  "四號RfK43"
                        },
         "assetName":  "Pz.IV_RFK43",
         "tankType":  0,
@@ -1511,11 +1511,11 @@
         "name":  "德缴T-34",
         "nameKey":  "Tank_Germany_Pz.T-34_Name",
         "nameByLang":  {
+                           "ru":  "Pz.T-34",
                            "en":  "Panzer T-34",
-                           "zh-Hans":  "德缴T-34",
-                           "zh-Hant":  "德繳T-34",
                            "ja":  "Pz.Kpfw.T 34 747(r)",
-                           "ru":  "Pz.T-34"
+                           "zh-Hans":  "德缴T-34",
+                           "zh-Hant":  "德繳T-34"
                        },
         "assetName":  "Pz.T-34",
         "tankType":  0,
@@ -1553,11 +1553,11 @@
         "name":  "旋风",
         "nameKey":  "Tank_Germany_Wirbelwind_Name",
         "nameByLang":  {
+                           "ru":  "Wirbelwind",
                            "en":  "Wirbelwind",
-                           "zh-Hans":  "旋风",
-                           "zh-Hant":  "旋風式防空坦克",
                            "ja":  "ヴィルベルヴィント",
-                           "ru":  "Wirbelwind"
+                           "zh-Hans":  "旋风",
+                           "zh-Hant":  "旋風式防空坦克"
                        },
         "assetName":  "Wirbelwind",
         "tankType":  4,
@@ -1592,16 +1592,12 @@
         "maxSpeed":  39
     },
     {
-        "name":  "Brummbar",
-        "nameKey":  "Tank_Germany_Brummbar",
+        "name":  null,
+        "nameKey":  "\"Tank_Germany_Brummb\\xE4r_Name\"",
         "nameByLang":  {
-                           "en":  "Brummbar",
-                           "zh-Hans":  "Brummbar",
-                           "zh-Hant":  "Brummbar",
-                           "ja":  "Brummbar",
-                           "ru":  "Brummbar"
+
                        },
-        "assetName":  "Brummbär",
+        "assetName":  "\"Brummb\\xE4r\"",
         "tankType":  6,
         "nation":  0,
         "rank":  5,
@@ -1637,11 +1633,11 @@
         "name":  "家具车防空炮",
         "nameKey":  "Tank_Germany_Mobelwagen_Name",
         "nameByLang":  {
+                           "ru":  "Möbelwagen",
                            "en":  "Möbelwagen",
-                           "zh-Hans":  "家具车防空炮",
-                           "zh-Hant":  "家具車式防空炮",
                            "ja":  "メーベルワーゲン",
-                           "ru":  "Möbelwagen"
+                           "zh-Hans":  "家具车防空炮",
+                           "zh-Hant":  "家具車式防空炮"
                        },
         "assetName":  "Mobelwagen",
         "tankType":  4,
@@ -1679,11 +1675,11 @@
         "name":  "撞击虎",
         "nameKey":  "Tank_Germany_Rammtiger_Name",
         "nameByLang":  {
+                           "ru":  "Rammtiger",
                            "en":  "Rammtiger",
-                           "zh-Hans":  "撞击虎",
-                           "zh-Hant":  "撞擊虎",
                            "ja":  "ラムティーガー",
-                           "ru":  "Rammtiger"
+                           "zh-Hans":  "撞击虎",
+                           "zh-Hant":  "撞擊虎"
                        },
         "assetName":  "Rammtiger",
         "tankType":  2,
@@ -1717,11 +1713,11 @@
         "name":  "Sd.Kfz.250/9",
         "nameKey":  "Tank_Germany_Sd.Kfz.250_9_Name",
         "nameByLang":  {
+                           "ru":  "Sd.Kfz.250/9",
                            "en":  "Sd.Kfz.250/9",
-                           "zh-Hans":  "Sd.Kfz.250/9",
-                           "zh-Hant":  "Sd.Kfz.250/9",
                            "ja":  "Sd.Kfz.250/9",
-                           "ru":  "Sd.Kfz.250/9"
+                           "zh-Hans":  "Sd.Kfz.250/9",
+                           "zh-Hant":  "Sd.Kfz.250/9"
                        },
         "assetName":  "Sd.Kfz.250_9",
         "tankType":  7,
@@ -1759,11 +1755,11 @@
         "name":  "豹式坦克G型",
         "nameKey":  "Tank_Germany_Panther G_Name",
         "nameByLang":  {
+                           "ru":  "Panther G",
                            "en":  "Panther G",
-                           "zh-Hans":  "豹式坦克G型",
-                           "zh-Hant":  "豹式坦克G型",
                            "ja":  "パンターG型",
-                           "ru":  "Panther G"
+                           "zh-Hans":  "豹式坦克G型",
+                           "zh-Hant":  "豹式坦克G型"
                        },
         "assetName":  "Panther G",
         "tankType":  0,
@@ -1801,11 +1797,11 @@
         "name":  "豹式坦克G型",
         "nameKey":  "Tank_Germany_Panther G_Name",
         "nameByLang":  {
+                           "ru":  "Panther G",
                            "en":  "Panther G",
-                           "zh-Hans":  "豹式坦克G型",
-                           "zh-Hant":  "豹式坦克G型",
                            "ja":  "パンターG型",
-                           "ru":  "Panther G"
+                           "zh-Hans":  "豹式坦克G型",
+                           "zh-Hant":  "豹式坦克G型"
                        },
         "assetName":  "Panther G_Elite",
         "tankType":  0,
@@ -1843,11 +1839,11 @@
         "name":  "突击虎",
         "nameKey":  "Tank_Germany_Sturmtiger_Name",
         "nameByLang":  {
+                           "ru":  "Sturmtiger",
                            "en":  "Sturmtiger",
-                           "zh-Hans":  "突击虎",
-                           "zh-Hant":  "突擊虎",
                            "ja":  "シュトルムティーガー",
-                           "ru":  "Sturmtiger"
+                           "zh-Hans":  "突击虎",
+                           "zh-Hant":  "突擊虎"
                        },
         "assetName":  "Sturmtiger",
         "tankType":  6,
@@ -1885,11 +1881,11 @@
         "name":  "虎式坦克E型",
         "nameKey":  "Tank_Germany_Tiger E_Name",
         "nameByLang":  {
+                           "ru":  "Tiger E",
                            "en":  "Tiger I",
-                           "zh-Hans":  "虎式坦克E型",
-                           "zh-Hant":  "虎式坦克E型",
                            "ja":  "VI号戦車 E型",
-                           "ru":  "Tiger E"
+                           "zh-Hans":  "虎式坦克E型",
+                           "zh-Hant":  "虎式坦克E型"
                        },
         "assetName":  "Tiger E",
         "tankType":  2,
@@ -1927,11 +1923,11 @@
         "name":  "虎式坦克E型",
         "nameKey":  "Tank_Germany_Tiger E_Name",
         "nameByLang":  {
+                           "ru":  "Tiger E",
                            "en":  "Tiger I",
-                           "zh-Hans":  "虎式坦克E型",
-                           "zh-Hant":  "虎式坦克E型",
                            "ja":  "VI号戦車 E型",
-                           "ru":  "Tiger E"
+                           "zh-Hans":  "虎式坦克E型",
+                           "zh-Hant":  "虎式坦克E型"
                        },
         "assetName":  "Tiger E_Elite",
         "tankType":  2,
@@ -1969,11 +1965,11 @@
         "name":  "保时捷245/10型",
         "nameKey":  "Tank_Germany_Type 245 10_Name",
         "nameByLang":  {
+                           "ru":  "Typ 245/10",
                            "en":  "Typ 245/10",
-                           "zh-Hans":  "保时捷245/10型",
-                           "zh-Hant":  "保時捷245/10型",
                            "ja":  "ポルシェ245-010",
-                           "ru":  "Typ 245/10"
+                           "zh-Hans":  "保时捷245/10型",
+                           "zh-Hant":  "保時捷245/10型"
                        },
         "assetName":  "Type 245 10",
         "tankType":  1,
@@ -2011,11 +2007,11 @@
         "name":  "保时捷虎式",
         "nameKey":  "Tank_Germany_VK 45.01 (P)_Name",
         "nameByLang":  {
+                           "ru":  "VK 45.01 (P)",
                            "en":  "VK 45.01 (P)",
-                           "zh-Hans":  "保时捷虎式",
-                           "zh-Hant":  "VK 45.01 (P)",
                            "ja":  "VK 45.01 (P)",
-                           "ru":  "VK 45.01 (P)"
+                           "zh-Hans":  "保时捷虎式",
+                           "zh-Hant":  "VK 45.01 (P)"
                        },
         "assetName":  "VK 45.01 (P)",
         "tankType":  2,
@@ -2053,11 +2049,11 @@
         "name":  "豹式指挥坦克",
         "nameKey":  "Tank_Germany_BefehlsPantherF_Name",
         "nameByLang":  {
+                           "ru":  "Befehls Panther F",
                            "en":  "Befehls Panther F",
-                           "zh-Hans":  "豹式指挥坦克",
-                           "zh-Hant":  "豹式指揮戰車",
                            "ja":  "パンター指揮戦車",
-                           "ru":  "Befehls Panther F"
+                           "zh-Hans":  "豹式指挥坦克",
+                           "zh-Hant":  "豹式指揮戰車"
                        },
         "assetName":  "BefehlsPantherF",
         "tankType":  0,
@@ -2095,11 +2091,11 @@
         "name":  "斐迪南",
         "nameKey":  "Tank_Germany_Ferdinand_Name",
         "nameByLang":  {
+                           "ru":  "Ferdinand",
                            "en":  "Ferdinand",
-                           "zh-Hans":  "斐迪南",
-                           "zh-Hant":  "象式驅逐坦克",
                            "ja":  "フェルディナント",
-                           "ru":  "Ferdinand"
+                           "zh-Hans":  "斐迪南",
+                           "zh-Hant":  "象式驅逐坦克"
                        },
         "assetName":  "Ferdinand",
         "tankType":  3,
@@ -2137,11 +2133,11 @@
         "name":  "猎豹",
         "nameKey":  "Tank_Germany_Jagdpanther_Name",
         "nameByLang":  {
+                           "ru":  "Jagdpanther",
                            "en":  "Jagdpanther",
-                           "zh-Hans":  "猎豹",
-                           "zh-Hant":  "獵豹式驅逐坦克",
                            "ja":  "ヤクトパンター",
-                           "ru":  "Jagdpanther"
+                           "zh-Hans":  "猎豹",
+                           "zh-Hant":  "獵豹式驅逐坦克"
                        },
         "assetName":  "Jagdpanther",
         "tankType":  3,
@@ -2179,11 +2175,11 @@
         "name":  "猎虎",
         "nameKey":  "Tank_Germany_Jagdtiger_Name",
         "nameByLang":  {
+                           "ru":  "Jagdtiger",
                            "en":  "Jagdtiger",
-                           "zh-Hans":  "猎虎",
-                           "zh-Hant":  "獵虎式驅逐坦克",
                            "ja":  "ヤクトティーガー",
-                           "ru":  "Jagdtiger"
+                           "zh-Hans":  "猎虎",
+                           "zh-Hant":  "獵虎式驅逐坦克"
                        },
         "assetName":  "Jagdtiger",
         "tankType":  3,
@@ -2221,11 +2217,11 @@
         "name":  "球状闪电",
         "nameKey":  "Tank_Germany_Kugelblitz_Name",
         "nameByLang":  {
+                           "ru":  "Kugelblitz",
                            "en":  "Kugelblitz",
-                           "zh-Hans":  "球状闪电",
-                           "zh-Hant":  "球狀閃電防空坦克",
                            "ja":  "クーゲルブリッツ",
-                           "ru":  "Kugelblitz"
+                           "zh-Hans":  "球状闪电",
+                           "zh-Hant":  "球狀閃電防空坦克"
                        },
         "assetName":  "Kugelblitz",
         "tankType":  4,
@@ -2263,11 +2259,11 @@
         "name":  "骷髅猎虎",
         "nameKey":  "Tank_Germany_SkeletonJagdtiger_Name",
         "nameByLang":  {
+                           "ru":  "Jagdtiger остов",
                            "en":  "Skeleton Jagdtiger",
-                           "zh-Hans":  "骷髅猎虎",
-                           "zh-Hant":  "骷髏獵虎",
                            "ja":  "スケールトティーガー",
-                           "ru":  "Jagdtiger остов"
+                           "zh-Hans":  "骷髅猎虎",
+                           "zh-Hant":  "骷髏獵虎"
                        },
         "assetName":  "SkeletonJagdtiger",
         "tankType":  3,
@@ -2305,11 +2301,11 @@
         "name":  "虎王",
         "nameKey":  "Tank_Germany_Tiger_II_Name",
         "nameByLang":  {
+                           "ru":  "Tiger II",
                            "en":  "Tiger II",
-                           "zh-Hans":  "虎王",
-                           "zh-Hant":  "虎王坦克",
                            "ja":  "ティーガー II",
-                           "ru":  "Tiger II"
+                           "zh-Hans":  "虎王",
+                           "zh-Hant":  "虎王坦克"
                        },
         "assetName":  "Tiger_II",
         "tankType":  2,
@@ -2347,11 +2343,11 @@
         "name":  "虎王",
         "nameKey":  "Tank_Germany_Tiger_II_Name",
         "nameByLang":  {
+                           "ru":  "Tiger II",
                            "en":  "Tiger II",
-                           "zh-Hans":  "虎王",
-                           "zh-Hant":  "虎王坦克",
                            "ja":  "ティーガー II",
-                           "ru":  "Tiger II"
+                           "zh-Hans":  "虎王",
+                           "zh-Hant":  "虎王坦克"
                        },
         "assetName":  "Tiger_II_Elite",
         "tankType":  2,
@@ -2389,11 +2385,11 @@
         "name":  "鼠式坦克",
         "nameKey":  "Tank_Germany_Maus_Name",
         "nameByLang":  {
+                           "ru":  "Maus",
                            "en":  "Maus",
-                           "zh-Hans":  "鼠式坦克",
-                           "zh-Hant":  "鼠式坦克",
                            "ja":  "マウス",
-                           "ru":  "Maus"
+                           "zh-Hans":  "鼠式坦克",
+                           "zh-Hant":  "鼠式坦克"
                        },
         "assetName":  "Maus",
         "tankType":  2,
@@ -2431,11 +2427,11 @@
         "name":  "鼠式坦克",
         "nameKey":  "Tank_Germany_Maus_Name",
         "nameByLang":  {
+                           "ru":  "Maus",
                            "en":  "Maus",
-                           "zh-Hans":  "鼠式坦克",
-                           "zh-Hant":  "鼠式坦克",
                            "ja":  "マウス",
-                           "ru":  "Maus"
+                           "zh-Hans":  "鼠式坦克",
+                           "zh-Hant":  "鼠式坦克"
                        },
         "assetName":  "Maus_Elite",
         "tankType":  2,
@@ -2473,11 +2469,11 @@
         "name":  "E-100",
         "nameKey":  "Tank_Germany_E-100_Name",
         "nameByLang":  {
+                           "ru":  "E-100",
                            "en":  "E-100",
-                           "zh-Hans":  "E-100",
-                           "zh-Hant":  "E-100超重坦克",
                            "ja":  "E-100",
-                           "ru":  "E-100"
+                           "zh-Hans":  "E-100",
+                           "zh-Hant":  "E-100超重坦克"
                        },
         "assetName":  "E-100",
         "tankType":  2,
@@ -2515,11 +2511,11 @@
         "name":  "E-100",
         "nameKey":  "Tank_Germany_E-100_Name",
         "nameByLang":  {
+                           "ru":  "E-100",
                            "en":  "E-100",
-                           "zh-Hans":  "E-100",
-                           "zh-Hant":  "E-100超重坦克",
                            "ja":  "E-100",
-                           "ru":  "E-100"
+                           "zh-Hans":  "E-100",
+                           "zh-Hant":  "E-100超重坦克"
                        },
         "assetName":  "E-100_150HE",
         "tankType":  2,
@@ -2557,11 +2553,11 @@
         "name":  "E-100(运输形态)",
         "nameKey":  "Tank_Germany_E-100_WithoutShirts_Name",
         "nameByLang":  {
+                           "ru":  "E-100 (Габарит)",
                            "en":  "E-100 (Transport)",
-                           "zh-Hans":  "E-100(运输形态)",
-                           "zh-Hant":  "E-100(運輸形態)",
                            "ja":  "E-100(輸送仕様)",
-                           "ru":  "E-100 (Габарит)"
+                           "zh-Hans":  "E-100(运输形态)",
+                           "zh-Hant":  "E-100(運輸形態)"
                        },
         "assetName":  "E-100_WithoutShirts",
         "tankType":  2,
@@ -2599,11 +2595,11 @@
         "name":  "卡尔臼炮",
         "nameKey":  "Tank_Germany_Karl_Name",
         "nameByLang":  {
+                           "ru":  "Mörser Karl",
                            "en":  "Mörser Karl",
-                           "zh-Hans":  "卡尔臼炮",
-                           "zh-Hant":  "卡爾臼炮",
                            "ja":  "カール自走臼砲",
-                           "ru":  "Mörser Karl"
+                           "zh-Hans":  "卡尔臼炮",
+                           "zh-Hant":  "卡爾臼炮"
                        },
         "assetName":  "Karl",
         "tankType":  6,
@@ -2641,11 +2637,11 @@
         "name":  "AS42",
         "nameKey":  "Tank_Italy_AS42_Name",
         "nameByLang":  {
+                           "ru":  "AS42",
                            "en":  "AS42",
-                           "zh-Hans":  "AS42",
-                           "zh-Hant":  "AS42",
                            "ja":  "AS42",
-                           "ru":  "AS42"
+                           "zh-Hans":  "AS42",
+                           "zh-Hant":  "AS42"
                        },
         "assetName":  "AS42",
         "tankType":  4,
@@ -2683,11 +2679,11 @@
         "name":  "AS42/47",
         "nameKey":  "Tank_Italy_AS4247_Name",
         "nameByLang":  {
+                           "ru":  "AS42/47",
                            "en":  "AS42/47",
-                           "zh-Hans":  "AS42/47",
-                           "zh-Hant":  "AS42/47",
                            "ja":  "AS42/47",
-                           "ru":  "AS42/47"
+                           "zh-Hans":  "AS42/47",
+                           "zh-Hant":  "AS42/47"
                        },
         "assetName":  "AS4247",
         "tankType":  7,
@@ -2725,11 +2721,11 @@
         "name":  "L3 CC",
         "nameKey":  "Tank_Italy_L3CC_Name",
         "nameByLang":  {
+                           "ru":  "L3 CC",
                            "en":  "L3 CC",
-                           "zh-Hans":  "L3 CC",
-                           "zh-Hant":  "L3 CC",
                            "ja":  "L3 CC",
-                           "ru":  "L3 CC"
+                           "zh-Hans":  "L3 CC",
+                           "zh-Hant":  "L3 CC"
                        },
         "assetName":  "L3CC",
         "tankType":  1,
@@ -2767,11 +2763,11 @@
         "name":  "M41M",
         "nameKey":  "Tank_Italy_M41M_Name",
         "nameByLang":  {
+                           "ru":  "M41M",
                            "en":  "M41M",
-                           "zh-Hans":  "M41M",
-                           "zh-Hant":  "M41M",
                            "ja":  "M41M",
-                           "ru":  "M41M"
+                           "zh-Hans":  "M41M",
+                           "zh-Hant":  "M41M"
                        },
         "assetName":  "M41M",
         "tankType":  3,
@@ -2809,11 +2805,11 @@
         "name":  "P26/40",
         "nameKey":  "Tank_Italy_P26_40_Name",
         "nameByLang":  {
+                           "ru":  "P26/40",
                            "en":  "P26/40",
-                           "zh-Hans":  "P26/40",
-                           "zh-Hant":  "P26/40",
                            "ja":  "P26/40",
-                           "ru":  "P26/40"
+                           "zh-Hans":  "P26/40",
+                           "zh-Hant":  "P26/40"
                        },
         "assetName":  "P26_40",
         "tankType":  2,
@@ -2851,11 +2847,11 @@
         "name":  "P26/40",
         "nameKey":  "Tank_Italy_P26_40_Name",
         "nameByLang":  {
+                           "ru":  "P26/40",
                            "en":  "P26/40",
-                           "zh-Hans":  "P26/40",
-                           "zh-Hant":  "P26/40",
                            "ja":  "P26/40",
-                           "ru":  "P26/40"
+                           "zh-Hans":  "P26/40",
+                           "zh-Hant":  "P26/40"
                        },
         "assetName":  "P26_40_Elite",
         "tankType":  2,
@@ -2893,11 +2889,11 @@
         "name":  "墨田装甲车",
         "nameKey":  "Tank_Japan_Type91AC_Name",
         "nameByLang":  {
+                           "ru":  "Броневик Type 91",
                            "en":  "So-Mo",
-                           "zh-Hans":  "墨田装甲车",
-                           "zh-Hant":  "墨田裝甲車",
                            "ja":  "スミダ式装甲車",
-                           "ru":  "Броневик Type 91"
+                           "zh-Hans":  "墨田装甲车",
+                           "zh-Hant":  "墨田裝甲車"
                        },
         "assetName":  "Type91AC",
         "tankType":  7,
@@ -2935,11 +2931,11 @@
         "name":  "长十二厘自走炮",
         "nameKey":  "Tank_Japan_Chi-HaLongGun_Name",
         "nameByLang":  {
+                           "ru":  "Chi-Ha Long Gun",
                            "en":  "Chi-Ha Long Gun",
-                           "zh-Hans":  "长十二厘自走炮",
-                           "zh-Hant":  "長十二釐米自走砲",
                            "ja":  "長十二糎自走砲",
-                           "ru":  "Chi-Ha Long Gun"
+                           "zh-Hans":  "长十二厘自走炮",
+                           "zh-Hant":  "長十二釐米自走砲"
                        },
         "assetName":  "Chi-HaLongGun",
         "tankType":  6,
@@ -2977,11 +2973,11 @@
         "name":  "短十二厘自走炮",
         "nameKey":  "Tank_Japan_Chi-HaShortGun_Name",
         "nameByLang":  {
+                           "ru":  "Chi-Ha Short Gun",
                            "en":  "Chi-Ha Short Gun",
-                           "zh-Hans":  "短十二厘自走炮",
-                           "zh-Hant":  "短十二釐米自走砲",
                            "ja":  "短十二糎自走砲",
-                           "ru":  "Chi-Ha Short Gun"
+                           "zh-Hans":  "短十二厘自走炮",
+                           "zh-Hant":  "短十二釐米自走砲"
                        },
         "assetName":  "Chi-HaShortGun",
         "tankType":  6,
@@ -3019,11 +3015,11 @@
         "name":  "特二式内火艇",
         "nameKey":  "Tank_Japan_Ka-Mi_Name",
         "nameByLang":  {
+                           "ru":  "Ka-Mi",
                            "en":  "Ka-Mi",
-                           "zh-Hans":  "特二式内火艇",
-                           "zh-Hant":  "特二式內火艇",
                            "ja":  "特二式内火艇",
-                           "ru":  "Ka-Mi"
+                           "zh-Hans":  "特二式内火艇",
+                           "zh-Hant":  "特二式內火艇"
                        },
         "assetName":  "Ka-Mi",
         "tankType":  1,
@@ -3061,11 +3057,11 @@
         "name":  "九四式防空车",
         "nameKey":  "Tank_Japan_Type94AA_Name",
         "nameByLang":  {
+                           "ru":  "Type 94 AA",
                            "en":  "Type 94 AA",
-                           "zh-Hans":  "九四式防空车",
-                           "zh-Hant":  "九四式防空車",
                            "ja":  "九四式六輪自動貨車",
-                           "ru":  "Type 94 AA"
+                           "zh-Hans":  "九四式防空车",
+                           "zh-Hant":  "九四式防空車"
                        },
         "assetName":  "Type94AA",
         "tankType":  4,
@@ -3103,11 +3099,11 @@
         "name":  "三式中战车",
         "nameKey":  "Tank_Japan_Chi-Nu_Name",
         "nameByLang":  {
+                           "ru":  "Chi-Nu",
                            "en":  "Chi-Nu",
-                           "zh-Hans":  "三式中战车",
-                           "zh-Hant":  "三式中戰車",
                            "ja":  "三式中戦車 チヌ",
-                           "ru":  "Chi-Nu"
+                           "zh-Hans":  "三式中战车",
+                           "zh-Hant":  "三式中戰車"
                        },
         "assetName":  "Chi-Nu",
         "tankType":  0,
@@ -3145,11 +3141,11 @@
         "name":  "四式中战车",
         "nameKey":  "Tank_Japan_Chi-To_Name",
         "nameByLang":  {
+                           "ru":  "Chi-To",
                            "en":  "Chi-To",
-                           "zh-Hans":  "四式中战车",
-                           "zh-Hant":  "四式中戰車",
                            "ja":  "四式中戦車 チト",
-                           "ru":  "Chi-To"
+                           "zh-Hans":  "四式中战车",
+                           "zh-Hant":  "四式中戰車"
                        },
         "assetName":  "Chi-To",
         "tankType":  0,
@@ -3187,11 +3183,11 @@
         "name":  "五式中战车",
         "nameKey":  "Tank_Japan_Chi-Ri_Name",
         "nameByLang":  {
+                           "ru":  "Chi-Ri",
                            "en":  "Chi-Ri",
-                           "zh-Hans":  "五式中战车",
-                           "zh-Hant":  "五式中戰車",
                            "ja":  "五式中戦車",
-                           "ru":  "Chi-Ri"
+                           "zh-Hans":  "五式中战车",
+                           "zh-Hant":  "五式中戰車"
                        },
         "assetName":  "Chi-Ri",
         "tankType":  0,
@@ -3229,11 +3225,11 @@
         "name":  "43式自行防空炮",
         "nameKey":  "Tank_Sweden_Lvkv m43_Name",
         "nameByLang":  {
+                           "ru":  "Lvkv м43",
                            "en":  "Lvkv m43",
-                           "zh-Hans":  "43式自行防空炮",
-                           "zh-Hant":  "43型自行防空炮",
                            "ja":  "Lvkv m43",
-                           "ru":  "Lvkv м43"
+                           "zh-Hans":  "43式自行防空炮",
+                           "zh-Hant":  "43型自行防空炮"
                        },
         "assetName":  "Lvkv m43",
         "tankType":  4,
@@ -3271,11 +3267,11 @@
         "name":  "莫里斯轻型侦察车",
         "nameKey":  "Tank_UK_Morris LRC_Name",
         "nameByLang":  {
+                           "ru":  "Morris LRC",
                            "en":  "Morris LRC",
-                           "zh-Hans":  "莫里斯轻型侦察车",
-                           "zh-Hant":  "莫里斯輕型偵察車",
                            "ja":  "モーリス軽偵察車",
-                           "ru":  "Morris LRC"
+                           "zh-Hans":  "莫里斯轻型侦察车",
+                           "zh-Hant":  "莫里斯輕型偵察車"
                        },
         "assetName":  "Morris LRC",
         "tankType":  7,
@@ -3313,11 +3309,11 @@
         "name":  "弓箭手",
         "nameKey":  "Tank_UK_Archer_Name",
         "nameByLang":  {
+                           "ru":  "Archer",
                            "en":  "Archer",
-                           "zh-Hans":  "弓箭手",
-                           "zh-Hant":  "射手",
                            "ja":  "アーチャー対戦車自走砲",
-                           "ru":  "Archer"
+                           "zh-Hans":  "弓箭手",
+                           "zh-Hant":  "射手"
                        },
         "assetName":  "Archer",
         "tankType":  3,
@@ -3355,11 +3351,11 @@
         "name":  "十字军防空I型",
         "nameKey":  "Tank_UK_CrusaderAA_I_Name",
         "nameByLang":  {
+                           "ru":  "Crusader AA Mk.I",
                            "en":  "Crusader AA Mk I",
-                           "zh-Hans":  "十字军防空I型",
-                           "zh-Hant":  "十字軍防空I型",
                            "ja":  "クルセーダー AA Mk.I",
-                           "ru":  "Crusader AA Mk.I"
+                           "zh-Hans":  "十字军防空I型",
+                           "zh-Hant":  "十字軍防空I型"
                        },
         "assetName":  "CrusaderAA_I",
         "tankType":  4,
@@ -3397,11 +3393,11 @@
         "name":  "玛蒂尔达2型",
         "nameKey":  "Tank_UK_MatildaII_Name",
         "nameByLang":  {
+                           "ru":  "Matilda II",
                            "en":  "Matilda II",
-                           "zh-Hans":  "玛蒂尔达2型",
-                           "zh-Hant":  "A12瑪蒂達Ⅱ",
                            "ja":  "マチルダII",
-                           "ru":  "Matilda II"
+                           "zh-Hans":  "玛蒂尔达2型",
+                           "zh-Hant":  "A12瑪蒂達Ⅱ"
                        },
         "assetName":  "MatildaII",
         "tankType":  2,
@@ -3439,11 +3435,11 @@
         "name":  "T17E1\"猎鹿犬\"",
         "nameKey":  "Tank_UK_T17E1_Name",
         "nameByLang":  {
+                           "ru":  "T17E1",
                            "en":  "T17E1",
-                           "zh-Hans":  "T17E1\"猎鹿犬\"",
-                           "zh-Hant":  "T17E1獵鹿犬",
                            "ja":  "スタッグハウンド装甲車",
-                           "ru":  "T17E1"
+                           "zh-Hans":  "T17E1\"猎鹿犬\"",
+                           "zh-Hant":  "T17E1獵鹿犬"
                        },
         "assetName":  "T17E1",
         "tankType":  7,
@@ -3481,11 +3477,11 @@
         "name":  "小领主",
         "nameKey":  "Tank_UK_Tetrarch_Name",
         "nameByLang":  {
+                           "ru":  "Tetrarch",
                            "en":  "Tetrarch",
-                           "zh-Hans":  "小领主",
-                           "zh-Hant":  "領主式輕戰車",
                            "ja":  "テトラーク軽戦車",
-                           "ru":  "Tetrarch"
+                           "zh-Hans":  "小领主",
+                           "zh-Hant":  "領主式輕戰車"
                        },
         "assetName":  "Tetrarch",
         "tankType":  1,
@@ -3523,11 +3519,11 @@
         "name":  "主教",
         "nameKey":  "Tank_UK_Bishop_Name",
         "nameByLang":  {
+                           "ru":  "Bishop",
                            "en":  "Bishop",
-                           "zh-Hans":  "主教",
-                           "zh-Hant":  "主教式",
                            "ja":  "ビショップ自走砲",
-                           "ru":  "Bishop"
+                           "zh-Hans":  "主教",
+                           "zh-Hant":  "主教式"
                        },
         "assetName":  "Bishop",
         "tankType":  6,
@@ -3565,11 +3561,11 @@
         "name":  "丘吉尔4型",
         "nameKey":  "Tank_UK_Churchill_IV_Name",
         "nameByLang":  {
+                           "ru":  "Churchill Mk.IV",
                            "en":  "Churchill Mk IV",
-                           "zh-Hans":  "丘吉尔4型",
-                           "zh-Hant":  "邱吉爾4型",
                            "ja":  "チャーチルMk.IV",
-                           "ru":  "Churchill Mk.IV"
+                           "zh-Hans":  "丘吉尔4型",
+                           "zh-Hant":  "邱吉爾4型"
                        },
         "assetName":  "Churchill_IV",
         "tankType":  2,
@@ -3607,11 +3603,11 @@
         "name":  "丘吉尔8型",
         "nameKey":  "Tank_UK_Churchill_VIII_Name",
         "nameByLang":  {
+                           "ru":  "Churchill Mk.VIII",
                            "en":  "Churchill Mk VIII",
-                           "zh-Hans":  "丘吉尔8型",
-                           "zh-Hant":  "邱吉爾8型",
                            "ja":  "チャーチルMk.VIII",
-                           "ru":  "Churchill Mk.VIII"
+                           "zh-Hans":  "丘吉尔8型",
+                           "zh-Hant":  "邱吉爾8型"
                        },
         "assetName":  "Churchill_VIII",
         "tankType":  2,
@@ -3649,11 +3645,11 @@
         "name":  "十字军防空II型",
         "nameKey":  "Tank_UK_CrusaderAA_II_Name",
         "nameByLang":  {
+                           "ru":  "Crusader AA Mk.II",
                            "en":  "Crusader AA Mk II",
-                           "zh-Hans":  "十字军防空II型",
-                           "zh-Hant":  "十字軍防空II型",
                            "ja":  "クルセーダー AA Mk.II",
-                           "ru":  "Crusader AA Mk.II"
+                           "zh-Hans":  "十字军防空II型",
+                           "zh-Hant":  "十字軍防空II型"
                        },
         "assetName":  "CrusaderAA_II",
         "tankType":  4,
@@ -3691,11 +3687,11 @@
         "name":  "执事",
         "nameKey":  "Tank_UK_Deacon_Name",
         "nameByLang":  {
+                           "ru":  "Deacon",
                            "en":  "Deacon",
-                           "zh-Hans":  "执事",
-                           "zh-Hant":  "執事",
                            "ja":  "ディーコン対戦車自走砲",
-                           "ru":  "Deacon"
+                           "zh-Hans":  "执事",
+                           "zh-Hant":  "執事"
                        },
         "assetName":  "Deacon",
         "tankType":  3,
@@ -3733,11 +3729,11 @@
         "name":  "格兰特",
         "nameKey":  "Tank_UK_M3Grant_Name",
         "nameByLang":  {
+                           "ru":  "Grant",
                            "en":  "Grant",
-                           "zh-Hans":  "格兰特",
-                           "zh-Hant":  "格蘭特式",
                            "ja":  "M3グラント",
-                           "ru":  "Grant"
+                           "zh-Hans":  "格兰特",
+                           "zh-Hant":  "格蘭特式"
                        },
         "assetName":  "M3Grant",
         "tankType":  0,
@@ -3775,11 +3771,11 @@
         "name":  "TOG1",
         "nameKey":  "Tank_UK_TOG1_Name",
         "nameByLang":  {
+                           "ru":  "TOG1",
                            "en":  "TOG1",
-                           "zh-Hans":  "TOG1",
-                           "zh-Hant":  "TOG1",
                            "ja":  "TOG1",
-                           "ru":  "TOG1"
+                           "zh-Hans":  "TOG1",
+                           "zh-Hant":  "TOG1"
                        },
         "assetName":  "TOG1",
         "tankType":  2,
@@ -3817,11 +3813,11 @@
         "name":  "瓦伦丁10型",
         "nameKey":  "Tank_UK_Valentine_X_Name",
         "nameByLang":  {
+                           "ru":  "Valentine Mk.X",
                            "en":  "Valentine Mk X",
-                           "zh-Hans":  "瓦伦丁10型",
-                           "zh-Hant":  "瓦倫丁Mk.Ⅹ",
                            "ja":  "バレンタインMk.X",
-                           "ru":  "Valentine Mk.X"
+                           "zh-Hans":  "瓦伦丁10型",
+                           "zh-Hant":  "瓦倫丁Mk.Ⅹ"
                        },
         "assetName":  "Valentine_X",
         "tankType":  0,
@@ -3859,11 +3855,11 @@
         "name":  "丘吉尔AVRE",
         "nameKey":  "Tank_UK_Churchill_AVRE_Name",
         "nameByLang":  {
+                           "ru":  "Churchill AVRE",
                            "en":  "Churchill AVRE",
-                           "zh-Hans":  "丘吉尔AVRE",
-                           "zh-Hant":  "邱吉爾AVRE",
                            "ja":  "チャーチルAVRE",
-                           "ru":  "Churchill AVRE"
+                           "zh-Hans":  "丘吉尔AVRE",
+                           "zh-Hant":  "邱吉爾AVRE"
                        },
         "assetName":  "Churchill_AVRE",
         "tankType":  6,
@@ -3901,11 +3897,11 @@
         "name":  "克伦威尔6型",
         "nameKey":  "Tank_UK_Cromwell_VI_Name",
         "nameByLang":  {
+                           "ru":  "Cromwell VI",
                            "en":  "Cromwell VI",
-                           "zh-Hans":  "克伦威尔6型",
-                           "zh-Hant":  "克倫威爾Ⅵ",
                            "ja":  "クロムウェルMk.VI",
-                           "ru":  "Cromwell VI"
+                           "zh-Hans":  "克伦威尔6型",
+                           "zh-Hant":  "克倫威爾Ⅵ"
                        },
         "assetName":  "Cromwell_VI",
         "tankType":  0,
@@ -3943,11 +3939,11 @@
         "name":  "萤火虫",
         "nameKey":  "Tank_UK_FireFly_Name",
         "nameByLang":  {
+                           "ru":  "Firefly",
                            "en":  "Firefly",
-                           "zh-Hans":  "萤火虫",
-                           "zh-Hant":  "雪曼螢火蟲",
                            "ja":  "ファイアフライ",
-                           "ru":  "Firefly"
+                           "zh-Hans":  "萤火虫",
+                           "zh-Hant":  "雪曼螢火蟲"
                        },
         "assetName":  "FireFly",
         "tankType":  0,
@@ -3985,11 +3981,11 @@
         "name":  "亨伯装甲车",
         "nameKey":  "Tank_UK_HumberArmouredCar_Name",
         "nameByLang":  {
+                           "ru":  "Humber MK IV",
                            "en":  "Humber MK IV",
-                           "zh-Hans":  "亨伯装甲车",
-                           "zh-Hant":  "亨伯裝甲車",
                            "ja":  "ハンバー装甲車",
-                           "ru":  "Humber MK IV"
+                           "zh-Hans":  "亨伯装甲车",
+                           "zh-Hant":  "亨伯裝甲車"
                        },
         "assetName":  "HumberArmouredCar",
         "tankType":  7,
@@ -4027,11 +4023,11 @@
         "name":  "秘密武器运载车",
         "nameKey":  "Tank_UK_SecretWeaponCarrier_Name",
         "nameByLang":  {
+                           "ru":  "Секретное оружие",
                            "en":  "Secret Weapon Carrier",
-                           "zh-Hans":  "秘密武器运载车",
-                           "zh-Hant":  "秘密武器運載車",
                            "ja":  "陸上爆雷搭載戦車",
-                           "ru":  "Секретное оружие"
+                           "zh-Hans":  "秘密武器运载车",
+                           "zh-Hant":  "秘密武器運載車"
                        },
         "assetName":  "SecretWeaponCarrier",
         "tankType":  6,
@@ -4069,11 +4065,11 @@
         "name":  "TOG2",
         "nameKey":  "Tank_UK_TOG2_Name",
         "nameByLang":  {
+                           "ru":  "TOG2",
                            "en":  "TOG2",
-                           "zh-Hans":  "TOG2",
-                           "zh-Hant":  "TOG2",
                            "ja":  "TOG2",
-                           "ru":  "TOG2"
+                           "zh-Hans":  "TOG2",
+                           "zh-Hant":  "TOG2"
                        },
         "assetName":  "TOG2",
         "tankType":  2,
@@ -4111,11 +4107,11 @@
         "name":  "挑战者",
         "nameKey":  "Tank_UK_Challenger_Name",
         "nameByLang":  {
+                           "ru":  "Challenger",
                            "en":  "Challenger",
-                           "zh-Hans":  "挑战者",
-                           "zh-Hant":  "挑戰者",
                            "ja":  "チャレンジャー",
-                           "ru":  "Challenger"
+                           "zh-Hans":  "挑战者",
+                           "zh-Hant":  "挑戰者"
                        },
         "assetName":  "Challenger",
         "tankType":  0,
@@ -4153,11 +4149,11 @@
         "name":  "彗星",
         "nameKey":  "Tank_UK_Comet_Name",
         "nameByLang":  {
+                           "ru":  "Comet",
                            "en":  "Comet",
-                           "zh-Hans":  "彗星",
-                           "zh-Hant":  "彗星",
                            "ja":  "コメット",
-                           "ru":  "Comet"
+                           "zh-Hans":  "彗星",
+                           "zh-Hant":  "彗星"
                        },
         "assetName":  "Comet",
         "tankType":  0,
@@ -4195,11 +4191,11 @@
         "name":  "黑王子",
         "nameKey":  "Tank_UK_BlackPrince_Name",
         "nameByLang":  {
+                           "ru":  "Black Prince",
                            "en":  "Black Prince",
-                           "zh-Hans":  "黑王子",
-                           "zh-Hant":  "黑王子",
                            "ja":  "ブラックプリンス",
-                           "ru":  "Black Prince"
+                           "zh-Hans":  "黑王子",
+                           "zh-Hant":  "黑王子"
                        },
         "assetName":  "BlackPrince",
         "tankType":  2,
@@ -4237,11 +4233,11 @@
         "name":  "土龟",
         "nameKey":  "Tank_UK_Tortoise_Name",
         "nameByLang":  {
+                           "ru":  "Tortoise",
                            "en":  "Tortoise",
-                           "zh-Hans":  "土龟",
-                           "zh-Hant":  "土龜",
                            "ja":  "トータス重突撃戦車",
-                           "ru":  "Tortoise"
+                           "zh-Hans":  "土龟",
+                           "zh-Hant":  "土龜"
                        },
         "assetName":  "Tortoise",
         "tankType":  3,
@@ -4279,11 +4275,11 @@
         "name":  "M20侦察车",
         "nameKey":  "Tank_US_M20ScoutCar_Name",
         "nameByLang":  {
+                           "ru":  "M20 Scout Car",
                            "en":  "M20 Scout Car",
-                           "zh-Hans":  "M20侦察车",
-                           "zh-Hant":  "M20通用裝甲車",
                            "ja":  "M20装甲車",
-                           "ru":  "M20 Scout Car"
+                           "zh-Hans":  "M20侦察车",
+                           "zh-Hant":  "M20通用裝甲車"
                        },
         "assetName":  "M20ScoutCar",
         "tankType":  7,
@@ -4321,11 +4317,11 @@
         "name":  "M5A1斯图亚特",
         "nameKey":  "Tank_US_M5A1_Name",
         "nameByLang":  {
+                           "ru":  "M5A1",
                            "en":  "M5A1",
-                           "zh-Hans":  "M5A1斯图亚特",
-                           "zh-Hant":  "M5A1史都華",
                            "ja":  "M5A1スチュアート",
-                           "ru":  "M5A1"
+                           "zh-Hans":  "M5A1斯图亚特",
+                           "zh-Hant":  "M5A1史都華"
                        },
         "assetName":  "M5A1",
         "tankType":  1,
@@ -4363,11 +4359,11 @@
         "name":  "M5A1斯图亚特",
         "nameKey":  "Tank_US_M5A1_Name",
         "nameByLang":  {
+                           "ru":  "M5A1",
                            "en":  "M5A1",
-                           "zh-Hans":  "M5A1斯图亚特",
-                           "zh-Hant":  "M5A1史都華",
                            "ja":  "M5A1スチュアート",
-                           "ru":  "M5A1"
+                           "zh-Hans":  "M5A1斯图亚特",
+                           "zh-Hant":  "M5A1史都華"
                        },
         "assetName":  "M5A1_Elite",
         "tankType":  1,
@@ -4405,11 +4401,11 @@
         "name":  "M8灰狗",
         "nameKey":  "Tank_US_M8LAC_Name",
         "nameByLang":  {
+                           "ru":  "M8 LAC",
                            "en":  "M8 LAC",
-                           "zh-Hans":  "M8灰狗",
-                           "zh-Hant":  "M8灰狗",
                            "ja":  "M8 グレイハウンド",
-                           "ru":  "M8 LAC"
+                           "zh-Hans":  "M8灰狗",
+                           "zh-Hant":  "M8灰狗"
                        },
         "assetName":  "M8LAC",
         "tankType":  7,
@@ -4447,11 +4443,11 @@
         "name":  "LVT(A)-4",
         "nameKey":  "Tank_US_LVT(A)-4_Name",
         "nameByLang":  {
+                           "ru":  "LVT(A)-4",
                            "en":  "LVT(A)-4",
-                           "zh-Hans":  "LVT(A)-4",
-                           "zh-Hant":  "LVT(A)-4",
                            "ja":  "LVT(A)-4",
-                           "ru":  "LVT(A)-4"
+                           "zh-Hans":  "LVT(A)-4",
+                           "zh-Hant":  "LVT(A)-4"
                        },
         "assetName":  "LVT(A)-4",
         "tankType":  7,
@@ -4489,11 +4485,11 @@
         "name":  "M24“霞飞”",
         "nameKey":  "Tank_US_M24_Name",
         "nameByLang":  {
+                           "ru":  "M24",
                            "en":  "M24",
-                           "zh-Hans":  "M24“霞飞”",
-                           "zh-Hant":  "M24霞飛",
                            "ja":  "M24",
-                           "ru":  "M24"
+                           "zh-Hans":  "M24“霞飞”",
+                           "zh-Hant":  "M24霞飛"
                        },
         "assetName":  "LVT(A)-4_M24",
         "tankType":  1,
@@ -4531,11 +4527,11 @@
         "name":  "M16",
         "nameKey":  "Tank_US_M16_Name",
         "nameByLang":  {
+                           "ru":  "M16",
                            "en":  "M16",
-                           "zh-Hans":  "M16",
-                           "zh-Hant":  "M16",
                            "ja":  "M16 MGMC",
-                           "ru":  "M16"
+                           "zh-Hans":  "M16",
+                           "zh-Hant":  "M16"
                        },
         "assetName":  "M16",
         "tankType":  4,
@@ -4573,11 +4569,11 @@
         "name":  "M8“斯科特”",
         "nameKey":  "Tank_US_M8Scott_Name",
         "nameByLang":  {
+                           "ru":  "M8 Scott",
                            "en":  "M8 Scott",
-                           "zh-Hans":  "M8“斯科特”",
-                           "zh-Hant":  "M8斯科特",
                            "ja":  "M8 スコット",
-                           "ru":  "M8 Scott"
+                           "zh-Hans":  "M8“斯科特”",
+                           "zh-Hant":  "M8斯科特"
                        },
         "assetName":  "M8Scott",
         "tankType":  6,
@@ -4615,11 +4611,11 @@
         "name":  "M8“斯科特”",
         "nameKey":  "Tank_US_M8Scott_Name",
         "nameByLang":  {
+                           "ru":  "M8 Scott",
                            "en":  "M8 Scott",
-                           "zh-Hans":  "M8“斯科特”",
-                           "zh-Hant":  "M8斯科特",
                            "ja":  "M8 スコット",
-                           "ru":  "M8 Scott"
+                           "zh-Hans":  "M8“斯科特”",
+                           "zh-Hant":  "M8斯科特"
                        },
         "assetName":  "M8Scott_Elite",
         "tankType":  6,
@@ -4657,11 +4653,11 @@
         "name":  "M7牧师",
         "nameKey":  "Tank_US_M7Priest_Name",
         "nameByLang":  {
+                           "ru":  "M7 Priest",
                            "en":  "M7 Priest",
-                           "zh-Hans":  "M7牧师",
-                           "zh-Hant":  "M7牧師式",
                            "ja":  "M7 プリースト",
-                           "ru":  "M7 Priest"
+                           "zh-Hans":  "M7牧师",
+                           "zh-Hant":  "M7牧師式"
                        },
         "assetName":  "M7Priest",
         "tankType":  6,
@@ -4699,11 +4695,11 @@
         "name":  "司事",
         "nameKey":  "Tank_UK_Sexton_Name",
         "nameByLang":  {
+                           "ru":  "Sexton",
                            "en":  "Sexton",
-                           "zh-Hans":  "司事",
-                           "zh-Hant":  "司事式",
                            "ja":  "セクストン自走砲",
-                           "ru":  "Sexton"
+                           "zh-Hans":  "司事",
+                           "zh-Hant":  "司事式"
                        },
         "assetName":  "Sexton",
         "tankType":  6,
@@ -4741,11 +4737,11 @@
         "name":  "M24“霞飞”",
         "nameKey":  "Tank_US_M24_Name",
         "nameByLang":  {
+                           "ru":  "M24",
                            "en":  "M24",
-                           "zh-Hans":  "M24“霞飞”",
-                           "zh-Hant":  "M24霞飛",
                            "ja":  "M24",
-                           "ru":  "M24"
+                           "zh-Hans":  "M24“霞飞”",
+                           "zh-Hant":  "M24霞飛"
                        },
         "assetName":  "M24",
         "tankType":  1,
@@ -4783,11 +4779,11 @@
         "name":  "谢尔曼管风琴",
         "nameKey":  "Tank_US_Calliope_Name",
         "nameByLang":  {
+                           "ru":  "T34 Calliope",
                            "en":  "T34 Calliope",
-                           "zh-Hans":  "谢尔曼管风琴",
-                           "zh-Hant":  "雪曼管風琴",
                            "ja":  "T34 カリオペ",
-                           "ru":  "T34 Calliope"
+                           "zh-Hans":  "谢尔曼管风琴",
+                           "zh-Hant":  "雪曼管風琴"
                        },
         "assetName":  "Calliope",
         "tankType":  0,
@@ -4825,11 +4821,11 @@
         "name":  "M12自行火炮",
         "nameKey":  "Tank_US_M12_Name",
         "nameByLang":  {
+                           "ru":  "M12",
                            "en":  "M12",
-                           "zh-Hans":  "M12自行火炮",
-                           "zh-Hant":  "M12自走炮",
                            "ja":  "M12自走砲",
-                           "ru":  "M12"
+                           "zh-Hans":  "M12自行火炮",
+                           "zh-Hant":  "M12自走炮"
                        },
         "assetName":  "M12",
         "tankType":  6,
@@ -4867,11 +4863,11 @@
         "name":  "M4A3(105)",
         "nameKey":  "Tank_US_M4A3(105)_Name",
         "nameByLang":  {
+                           "ru":  "M4A3(105)",
                            "en":  "M4A3(105)",
-                           "zh-Hans":  "M4A3(105)",
-                           "zh-Hant":  "M4A3(105)",
                            "ja":  "M4A3(105)",
-                           "ru":  "M4A3(105)"
+                           "zh-Hans":  "M4A3(105)",
+                           "zh-Hant":  "M4A3(105)"
                        },
         "assetName":  "M4A3(105)",
         "tankType":  0,
@@ -4909,11 +4905,11 @@
         "name":  "M4A3E2",
         "nameKey":  "Tank_USSR_M4A3E2_Name",
         "nameByLang":  {
+                           "ru":  "M4A3E2",
                            "en":  "M4A3E2",
-                           "zh-Hans":  "M4A3E2",
-                           "zh-Hant":  "M4A3E2",
                            "ja":  "M4A3E2",
-                           "ru":  "M4A3E2"
+                           "zh-Hans":  "M4A3E2",
+                           "zh-Hant":  "M4A3E2"
                        },
         "assetName":  "M4A3E2",
         "tankType":  2,
@@ -4951,11 +4947,11 @@
         "name":  "M4A3E2",
         "nameKey":  "Tank_USSR_M4A3E2_Name",
         "nameByLang":  {
+                           "ru":  "M4A3E2",
                            "en":  "M4A3E2",
-                           "zh-Hans":  "M4A3E2",
-                           "zh-Hant":  "M4A3E2",
                            "ja":  "M4A3E2",
-                           "ru":  "M4A3E2"
+                           "zh-Hans":  "M4A3E2",
+                           "zh-Hant":  "M4A3E2"
                        },
         "assetName":  "M4A3E2_Elite",
         "tankType":  2,
@@ -4993,11 +4989,11 @@
         "name":  "T31爆破坦克",
         "nameKey":  "Tank_US_T31_Name",
         "nameByLang":  {
+                           "ru":  "Инженерный Танк T31",
                            "en":  "T31 Demolition Tank",
-                           "zh-Hans":  "T31爆破坦克",
-                           "zh-Hant":  "T31爆破戰車",
                            "ja":  "T31破壊戦車",
-                           "ru":  "Инженерный Танк T31"
+                           "zh-Hans":  "T31爆破坦克",
+                           "zh-Hant":  "T31爆破戰車"
                        },
         "assetName":  "T31",
         "tankType":  6,
@@ -5035,11 +5031,11 @@
         "name":  "巴祖卡吉普",
         "nameKey":  "Tank_US_BazookaJeep_Name",
         "nameByLang":  {
+                           "ru":  "Джип с «Базуками»",
                            "en":  "Bazooka Jeep",
-                           "zh-Hans":  "巴祖卡吉普",
-                           "zh-Hant":  "巴祖卡吉普",
                            "ja":  "バズーカジープ",
-                           "ru":  "Джип с «Базуками»"
+                           "zh-Hans":  "巴祖卡吉普",
+                           "zh-Hant":  "巴祖卡吉普"
                        },
         "assetName":  "BazookaJeep",
         "tankType":  7,
@@ -5077,11 +5073,11 @@
         "name":  "地狱猫",
         "nameKey":  "Tank_US_Hellcat_Name",
         "nameByLang":  {
+                           "ru":  "Hellcat",
                            "en":  "Hellcat",
-                           "zh-Hans":  "地狱猫",
-                           "zh-Hant":  "地獄貓",
                            "ja":  "ヘルキャット",
-                           "ru":  "Hellcat"
+                           "zh-Hans":  "地狱猫",
+                           "zh-Hant":  "地獄貓"
                        },
         "assetName":  "Hellcat",
         "tankType":  3,
@@ -5119,11 +5115,11 @@
         "name":  "M36“杰克逊”",
         "nameKey":  "Tank_US_M36_Name",
         "nameByLang":  {
+                           "ru":  "M36",
                            "en":  "M36",
-                           "zh-Hans":  "M36“杰克逊”",
-                           "zh-Hant":  "M36傑克遜",
                            "ja":  "M36",
-                           "ru":  "M36"
+                           "zh-Hans":  "M36“杰克逊”",
+                           "zh-Hant":  "M36傑克遜"
                        },
         "assetName":  "Hellcat_M36",
         "tankType":  3,
@@ -5161,11 +5157,11 @@
         "name":  "M26",
         "nameKey":  "Tank_US_M26_Name",
         "nameByLang":  {
+                           "ru":  "M26",
                            "en":  "M26",
-                           "zh-Hans":  "M26",
-                           "zh-Hant":  "M26",
                            "ja":  "M26",
-                           "ru":  "M26"
+                           "zh-Hans":  "M26",
+                           "zh-Hant":  "M26"
                        },
         "assetName":  "M26",
         "tankType":  0,
@@ -5203,11 +5199,11 @@
         "name":  "M36“杰克逊”",
         "nameKey":  "Tank_US_M36_Name",
         "nameByLang":  {
+                           "ru":  "M36",
                            "en":  "M36",
-                           "zh-Hans":  "M36“杰克逊”",
-                           "zh-Hant":  "M36傑克遜",
                            "ja":  "M36",
-                           "ru":  "M36"
+                           "zh-Hans":  "M36“杰克逊”",
+                           "zh-Hant":  "M36傑克遜"
                        },
         "assetName":  "M36",
         "tankType":  3,
@@ -5245,11 +5241,11 @@
         "name":  "M4A3E8",
         "nameKey":  "Tank_US_M4A3E8_Name",
         "nameByLang":  {
+                           "ru":  "M4A3E8",
                            "en":  "M4A3E8",
-                           "zh-Hans":  "M4A3E8",
-                           "zh-Hant":  "M4A3E8",
                            "ja":  "M4A3E8",
-                           "ru":  "M4A3E8"
+                           "zh-Hans":  "M4A3E8",
+                           "zh-Hant":  "M4A3E8"
                        },
         "assetName":  "M4A3E8",
         "tankType":  0,
@@ -5287,11 +5283,11 @@
         "name":  "M4A3E8",
         "nameKey":  "Tank_US_M4A3E8_Name",
         "nameByLang":  {
+                           "ru":  "M4A3E8",
                            "en":  "M4A3E8",
-                           "zh-Hans":  "M4A3E8",
-                           "zh-Hant":  "M4A3E8",
                            "ja":  "M4A3E8",
-                           "ru":  "M4A3E8"
+                           "zh-Hans":  "M4A3E8",
+                           "zh-Hant":  "M4A3E8"
                        },
         "assetName":  "M4A3E8_Elite",
         "tankType":  0,
@@ -5329,11 +5325,11 @@
         "name":  "T88榴弹炮运载车",
         "nameKey":  "Tank_US_T88HMC_Name",
         "nameByLang":  {
+                           "ru":  "T88 HMC",
                            "en":  "T88 HMC",
-                           "zh-Hans":  "T88榴弹炮运载车",
-                           "zh-Hant":  "T88自走炮",
                            "ja":  "T88 105mm自走榴弾砲",
-                           "ru":  "T88 HMC"
+                           "zh-Hans":  "T88榴弹炮运载车",
+                           "zh-Hant":  "T88自走炮"
                        },
         "assetName":  "T88HMC",
         "tankType":  6,
@@ -5371,11 +5367,11 @@
         "name":  "雷电七号",
         "nameKey":  "Tank_US_Thunderbolt_VII_Name",
         "nameByLang":  {
+                           "ru":  "Thunderbolt VII",
                            "en":  "Thunderbolt VII",
-                           "zh-Hans":  "雷电七号",
-                           "zh-Hant":  "雷電七號",
                            "ja":  "サンダーボルトVII",
-                           "ru":  "Thunderbolt VII"
+                           "zh-Hans":  "雷电七号",
+                           "zh-Hant":  "雷電七號"
                        },
         "assetName":  "Thunderbolt_VII",
         "tankType":  0,
@@ -5413,11 +5409,11 @@
         "name":  "雷电七号",
         "nameKey":  "Tank_US_Thunderbolt_VII_Name",
         "nameByLang":  {
+                           "ru":  "Thunderbolt VII",
                            "en":  "Thunderbolt VII",
-                           "zh-Hans":  "雷电七号",
-                           "zh-Hant":  "雷電七號",
                            "ja":  "サンダーボルトVII",
-                           "ru":  "Thunderbolt VII"
+                           "zh-Hans":  "雷电七号",
+                           "zh-Hant":  "雷電七號"
                        },
         "assetName":  "Thunderbolt_VII_Elite",
         "tankType":  0,
@@ -5455,11 +5451,11 @@
         "name":  "M26/T99",
         "nameKey":  "Tank_US_M26-T99_Name",
         "nameByLang":  {
+                           "ru":  "M26/T99",
                            "en":  "M26/T99",
-                           "zh-Hans":  "M26/T99",
-                           "zh-Hant":  "M26/T99",
                            "ja":  "M26/T99",
-                           "ru":  "M26/T99"
+                           "zh-Hans":  "M26/T99",
+                           "zh-Hant":  "M26/T99"
                        },
         "assetName":  "M26-T99",
         "tankType":  0,
@@ -5497,11 +5493,11 @@
         "name":  "超级潘兴",
         "nameKey":  "Tank_US_T26E4_Name",
         "nameByLang":  {
+                           "ru":  "T26E4",
                            "en":  "T26E4",
-                           "zh-Hans":  "超级潘兴",
-                           "zh-Hant":  "超級潘興",
                            "ja":  "スーパーパーシング",
-                           "ru":  "T26E4"
+                           "zh-Hans":  "超级潘兴",
+                           "zh-Hant":  "超級潘興"
                        },
         "assetName":  "T26E4",
         "tankType":  2,
@@ -5539,11 +5535,11 @@
         "name":  "T29",
         "nameKey":  "Tank_US_T29_Name",
         "nameByLang":  {
+                           "ru":  "T29",
                            "en":  "T29",
-                           "zh-Hans":  "T29",
-                           "zh-Hant":  "T29",
                            "ja":  "T29重戦車",
-                           "ru":  "T29"
+                           "zh-Hans":  "T29",
+                           "zh-Hant":  "T29"
                        },
         "assetName":  "T29",
         "tankType":  2,
@@ -5581,11 +5577,11 @@
         "name":  "T30",
         "nameKey":  "Tank_US_T30_Name",
         "nameByLang":  {
+                           "ru":  "T30",
                            "en":  "T30",
-                           "zh-Hans":  "T30",
-                           "zh-Hant":  "T30",
                            "ja":  "T30重戦車",
-                           "ru":  "T30"
+                           "zh-Hans":  "T30",
+                           "zh-Hant":  "T30"
                        },
         "assetName":  "T30",
         "tankType":  2,
@@ -5623,11 +5619,11 @@
         "name":  "T34",
         "nameKey":  "Tank_US_T34_Name",
         "nameByLang":  {
+                           "ru":  "T34",
                            "en":  "T34",
-                           "zh-Hans":  "T34",
-                           "zh-Hant":  "T34",
                            "ja":  "T34重戦車",
-                           "ru":  "T34"
+                           "zh-Hans":  "T34",
+                           "zh-Hant":  "T34"
                        },
         "assetName":  "T34",
         "tankType":  2,
@@ -5665,11 +5661,11 @@
         "name":  "T95",
         "nameKey":  "Tank_US_T95_Name",
         "nameByLang":  {
+                           "ru":  "T95",
                            "en":  "T95",
-                           "zh-Hans":  "T95",
-                           "zh-Hant":  "T95",
                            "ja":  "T95",
-                           "ru":  "T95"
+                           "zh-Hans":  "T95",
+                           "zh-Hant":  "T95"
                        },
         "assetName":  "T95",
         "tankType":  3,
@@ -5707,11 +5703,11 @@
         "name":  "BA-10",
         "nameKey":  "Tank_USSR_BA-10_Name",
         "nameByLang":  {
+                           "ru":  "БА-10",
                            "en":  "BA-10",
-                           "zh-Hans":  "BA-10",
-                           "zh-Hant":  "BA-10",
                            "ja":  "BA-10",
-                           "ru":  "БА-10"
+                           "zh-Hans":  "BA-10",
+                           "zh-Hant":  "BA-10"
                        },
         "assetName":  "BA-10",
         "tankType":  7,
@@ -5749,11 +5745,11 @@
         "name":  "BT-5",
         "nameKey":  "Tank_USSR_BT-5_Name",
         "nameByLang":  {
+                           "ru":  "БТ-5",
                            "en":  "BT-5",
-                           "zh-Hans":  "BT-5",
-                           "zh-Hant":  "BT-5",
                            "ja":  "BT-5",
-                           "ru":  "БТ-5"
+                           "zh-Hans":  "BT-5",
+                           "zh-Hant":  "BT-5"
                        },
         "assetName":  "BT-5",
         "tankType":  1,
@@ -5791,11 +5787,11 @@
         "name":  "BT-7 (公路形态)",
         "nameKey":  "Tank_USSR_BT-7_Name",
         "nameByLang":  {
+                           "ru":  "БТ-7",
                            "en":  "BT-7",
-                           "zh-Hans":  "BT-7 (公路形态)",
-                           "zh-Hant":  "BT-7 (公路型態)",
                            "ja":  "BT-7(装輪)",
-                           "ru":  "БТ-7"
+                           "zh-Hans":  "BT-7 (公路形态)",
+                           "zh-Hant":  "BT-7 (公路型態)"
                        },
         "assetName":  "BT-7",
         "tankType":  1,
@@ -5833,11 +5829,11 @@
         "name":  "RBT-5",
         "nameKey":  "Tank_USSR_RBT-5_Name",
         "nameByLang":  {
+                           "ru":  "РБТ-5",
                            "en":  "RBT-5",
-                           "zh-Hans":  "RBT-5",
-                           "zh-Hant":  "RBT-5",
                            "ja":  "RBT-5",
-                           "ru":  "РБТ-5"
+                           "zh-Hans":  "RBT-5",
+                           "zh-Hant":  "RBT-5"
                        },
         "assetName":  "RBT-5",
         "tankType":  6,
@@ -5875,11 +5871,11 @@
         "name":  "SU-76M",
         "nameKey":  "Tank_USSR_SU-76M_Name",
         "nameByLang":  {
+                           "ru":  "СУ-76М",
                            "en":  "SU-76M",
-                           "zh-Hans":  "SU-76M",
-                           "zh-Hant":  "SU-76M",
                            "ja":  "SU-76M",
-                           "ru":  "СУ-76М"
+                           "zh-Hans":  "SU-76M",
+                           "zh-Hant":  "SU-76M"
                        },
         "assetName":  "SU-76M",
         "tankType":  6,
@@ -5917,11 +5913,11 @@
         "name":  "T-26",
         "nameKey":  "Tank_USSR_T-26_Name",
         "nameByLang":  {
+                           "ru":  "Т-26",
                            "en":  "T-26",
-                           "zh-Hans":  "T-26",
-                           "zh-Hant":  "T-26",
                            "ja":  "T-26",
-                           "ru":  "Т-26"
+                           "zh-Hans":  "T-26",
+                           "zh-Hant":  "T-26"
                        },
         "assetName":  "T-26",
         "tankType":  1,
@@ -5959,11 +5955,11 @@
         "name":  "T-26",
         "nameKey":  "Tank_USSR_T-26_Name",
         "nameByLang":  {
+                           "ru":  "Т-26",
                            "en":  "T-26",
-                           "zh-Hans":  "T-26",
-                           "zh-Hant":  "T-26",
                            "ja":  "T-26",
-                           "ru":  "Т-26"
+                           "zh-Hans":  "T-26",
+                           "zh-Hant":  "T-26"
                        },
         "assetName":  "T-26_Pontoons",
         "tankType":  1,
@@ -6001,11 +5997,11 @@
         "name":  "T-38",
         "nameKey":  "Tank_USSR_T-38_Name",
         "nameByLang":  {
+                           "ru":  "Т-38",
                            "en":  "T-38",
-                           "zh-Hans":  "T-38",
-                           "zh-Hant":  "T-38",
                            "ja":  "T-38",
-                           "ru":  "Т-38"
+                           "zh-Hans":  "T-38",
+                           "zh-Hant":  "T-38"
                        },
         "assetName":  "T-38",
         "tankType":  1,
@@ -6043,11 +6039,11 @@
         "name":  "A-40飞行坦克",
         "nameKey":  "Tank_USSR_A-40_Name",
         "nameByLang":  {
+                           "ru":  "А-40",
                            "en":  "A-40",
-                           "zh-Hans":  "A-40飞行坦克",
-                           "zh-Hant":  "A-40滑翔坦克",
                            "ja":  "A-40",
-                           "ru":  "А-40"
+                           "zh-Hans":  "A-40飞行坦克",
+                           "zh-Hant":  "A-40滑翔坦克"
                        },
         "assetName":  "A-40",
         "tankType":  1,
@@ -6085,11 +6081,11 @@
         "name":  "BM-8-24",
         "nameKey":  "Tank_USSR_BM-8-24_Name",
         "nameByLang":  {
+                           "ru":  "БМ-8-24",
                            "en":  "BM-8-24",
-                           "zh-Hans":  "BM-8-24",
-                           "zh-Hant":  "BM-8-24",
                            "ja":  "BM-8-24",
-                           "ru":  "БМ-8-24"
+                           "zh-Hans":  "BM-8-24",
+                           "zh-Hant":  "BM-8-24"
                        },
         "assetName":  "BM-8-24",
         "tankType":  6,
@@ -6127,11 +6123,11 @@
         "name":  "BT-42",
         "nameKey":  "Tank_Finland_BT-42_Name",
         "nameByLang":  {
+                           "ru":  "БТ-42",
                            "en":  "BT-42",
-                           "zh-Hans":  "BT-42",
-                           "zh-Hant":  "BT-42",
                            "ja":  "BT-42",
-                           "ru":  "БТ-42"
+                           "zh-Hans":  "BT-42",
+                           "zh-Hant":  "BT-42"
                        },
         "assetName":  "BT-42",
         "tankType":  6,
@@ -6169,11 +6165,11 @@
         "name":  "T-60",
         "nameKey":  "Tank_USSR_T-60_Name",
         "nameByLang":  {
+                           "ru":  "Т-60",
                            "en":  "T-60",
-                           "zh-Hans":  "T-60",
-                           "zh-Hant":  "T-60",
                            "ja":  "T-60",
-                           "ru":  "Т-60"
+                           "zh-Hans":  "T-60",
+                           "zh-Hant":  "T-60"
                        },
         "assetName":  "T-60",
         "tankType":  1,
@@ -6211,11 +6207,11 @@
         "name":  "T-70",
         "nameKey":  "Tank_USSR_T-70_Name",
         "nameByLang":  {
+                           "ru":  "Т-70",
                            "en":  "T-70",
-                           "zh-Hans":  "T-70",
-                           "zh-Hant":  "T-70",
                            "ja":  "T-70",
-                           "ru":  "Т-70"
+                           "zh-Hans":  "T-70",
+                           "zh-Hant":  "T-70"
                        },
         "assetName":  "T-70",
         "tankType":  1,
@@ -6253,11 +6249,11 @@
         "name":  "KV-1 (ZiS-5)",
         "nameKey":  "Tank_USSR_KV-1(ZiS-5)_Name",
         "nameByLang":  {
+                           "ru":  "КВ-1 (ЗИС-5)",
                            "en":  "KV-1 (ZiS-5)",
-                           "zh-Hans":  "KV-1 (ZiS-5)",
-                           "zh-Hant":  "KV-1 (ZiS-5)",
                            "ja":  "KV-1 (ZiS-5)",
-                           "ru":  "КВ-1 (ЗИС-5)"
+                           "zh-Hans":  "KV-1 (ZiS-5)",
+                           "zh-Hant":  "KV-1 (ZiS-5)"
                        },
         "assetName":  "KV-1(ZiS-5)",
         "tankType":  2,
@@ -6295,11 +6291,11 @@
         "name":  "KV-1S",
         "nameKey":  "Tank_USSR_KV-1S_Name",
         "nameByLang":  {
+                           "ru":  "КВ-1С",
                            "en":  "KV-1S",
-                           "zh-Hans":  "KV-1S",
-                           "zh-Hant":  "KV-1S",
                            "ja":  "KV-1S",
-                           "ru":  "КВ-1С"
+                           "zh-Hans":  "KV-1S",
+                           "zh-Hant":  "KV-1S"
                        },
         "assetName":  "KV-1S",
         "tankType":  2,
@@ -6337,11 +6333,11 @@
         "name":  "KV-2",
         "nameKey":  "Tank_USSR_KV-2_Name",
         "nameByLang":  {
+                           "ru":  "КВ-2",
                            "en":  "KV-2",
-                           "zh-Hans":  "KV-2",
-                           "zh-Hant":  "KV-2",
                            "ja":  "KV-2",
-                           "ru":  "КВ-2"
+                           "zh-Hans":  "KV-2",
+                           "zh-Hant":  "KV-2"
                        },
         "assetName":  "KV-2",
         "tankType":  6,
@@ -6379,11 +6375,11 @@
         "name":  "SU-152",
         "nameKey":  "Tank_USSR_SU-152_Name",
         "nameByLang":  {
+                           "ru":  "СУ-152",
                            "en":  "SU-152",
-                           "zh-Hans":  "SU-152",
-                           "zh-Hant":  "SU-152",
                            "ja":  "SU-152",
-                           "ru":  "СУ-152"
+                           "zh-Hans":  "SU-152",
+                           "zh-Hant":  "SU-152"
                        },
         "assetName":  "SU-152",
         "tankType":  6,
@@ -6421,11 +6417,11 @@
         "name":  "SU-152T",
         "nameKey":  "Tank_USSR_SU-152T_Name",
         "nameByLang":  {
+                           "ru":  "СУ-152T",
                            "en":  "SU-152T",
-                           "zh-Hans":  "SU-152T",
-                           "zh-Hant":  "SU-152T",
                            "ja":  "SU-152T",
-                           "ru":  "СУ-152T"
+                           "zh-Hans":  "SU-152T",
+                           "zh-Hant":  "SU-152T"
                        },
         "assetName":  "SU-152T",
         "tankType":  6,
@@ -6463,11 +6459,11 @@
         "name":  "T-34 (1942型)",
         "nameKey":  "Tank_USSR_T-34_Name",
         "nameByLang":  {
+                           "ru":  "Т-34 (1942)",
                            "en":  "T-34 (1942)",
-                           "zh-Hans":  "T-34 (1942型)",
-                           "zh-Hant":  "T-34 (1942型)",
                            "ja":  "T-34(1942年型)",
-                           "ru":  "Т-34 (1942)"
+                           "zh-Hans":  "T-34 (1942型)",
+                           "zh-Hant":  "T-34 (1942型)"
                        },
         "assetName":  "T-34",
         "tankType":  0,
@@ -6505,11 +6501,11 @@
         "name":  "ZIS-42 (61-K)",
         "nameKey":  "Tank_USSR_ZIS-42 (61-K)_Name",
         "nameByLang":  {
+                           "ru":  "ЗИС-42 (61-K)",
                            "en":  "ZIS-42 (61-K)",
-                           "zh-Hans":  "ZIS-42 (61-K)",
-                           "zh-Hant":  "ZIS-42 (61-K)",
                            "ja":  "ZIS-42 (61-K)",
-                           "ru":  "ЗИС-42 (61-K)"
+                           "zh-Hans":  "ZIS-42 (61-K)",
+                           "zh-Hant":  "ZIS-42 (61-K)"
                        },
         "assetName":  "ZIS-42 (61-K)",
         "tankType":  4,
@@ -6547,11 +6543,11 @@
         "name":  "ZUT-37",
         "nameKey":  "Tank_USSR_ZUT-37_Name",
         "nameByLang":  {
+                           "ru":  "ЗУТ-37",
                            "en":  "ZUT-37",
-                           "zh-Hans":  "ZUT-37",
-                           "zh-Hant":  "ZUT-37防空坦克",
                            "ja":  "ZUT-37",
-                           "ru":  "ЗУТ-37"
+                           "zh-Hans":  "ZUT-37",
+                           "zh-Hant":  "ZUT-37防空坦克"
                        },
         "assetName":  "ZUT-37",
         "tankType":  4,
@@ -6589,11 +6585,11 @@
         "name":  "BA-64B",
         "nameKey":  "Tank_USSR_BA-64B_Name",
         "nameByLang":  {
+                           "ru":  "БА-64Б",
                            "en":  "BA-64B",
-                           "zh-Hans":  "BA-64B",
-                           "zh-Hant":  "BA-64B",
                            "ja":  "BA-64B",
-                           "ru":  "БА-64Б"
+                           "zh-Hans":  "BA-64B",
+                           "zh-Hant":  "BA-64B"
                        },
         "assetName":  "BA-64B",
         "tankType":  7,
@@ -6631,11 +6627,11 @@
         "name":  "BM-8-48",
         "nameKey":  "Tank_USSR_BM-8-48_Name",
         "nameByLang":  {
+                           "ru":  "БМ-8-24",
                            "en":  "BM-8-48",
-                           "zh-Hans":  "BM-8-48",
-                           "zh-Hant":  "喀秋莎BM-8-48型",
                            "ja":  "BM-8-48",
-                           "ru":  "БМ-8-24"
+                           "zh-Hans":  "BM-8-48",
+                           "zh-Hant":  "喀秋莎BM-8-48型"
                        },
         "assetName":  "BM-8-48",
         "tankType":  6,
@@ -6673,11 +6669,11 @@
         "name":  "谢尔曼M4A2",
         "nameKey":  "Tank_USSR_M4A2_Name",
         "nameByLang":  {
+                           "ru":  "M4A2",
                            "en":  "M4A2",
-                           "zh-Hans":  "谢尔曼M4A2",
-                           "zh-Hant":  "雪曼M4A2",
                            "ja":  "M4A2 シャーマン",
-                           "ru":  "M4A2"
+                           "zh-Hans":  "谢尔曼M4A2",
+                           "zh-Hant":  "雪曼M4A2"
                        },
         "assetName":  "M4A2",
         "tankType":  0,
@@ -6715,11 +6711,11 @@
         "name":  "谢尔曼M4A2",
         "nameKey":  "Tank_USSR_M4A2_Name",
         "nameByLang":  {
+                           "ru":  "M4A2",
                            "en":  "M4A2",
-                           "zh-Hans":  "谢尔曼M4A2",
-                           "zh-Hant":  "雪曼M4A2",
                            "ja":  "M4A2 シャーマン",
-                           "ru":  "M4A2"
+                           "zh-Hans":  "谢尔曼M4A2",
+                           "zh-Hant":  "雪曼M4A2"
                        },
         "assetName":  "M4A2_Elite",
         "tankType":  0,
@@ -6757,11 +6753,11 @@
         "name":  "BM-13“喀秋莎”",
         "nameKey":  "Tank_USSR_BM-13_Name",
         "nameByLang":  {
+                           "ru":  "БМ-13 «Катюша»",
                            "en":  "BM-13\"Katyusha\"",
-                           "zh-Hans":  "BM-13“喀秋莎”",
-                           "zh-Hant":  "BM-13「卡秋莎」",
                            "ja":  "BM-13 カチューシャ",
-                           "ru":  "БМ-13 «Катюша»"
+                           "zh-Hans":  "BM-13“喀秋莎”",
+                           "zh-Hant":  "BM-13「卡秋莎」"
                        },
         "assetName":  "BM-13",
         "tankType":  6,
@@ -6799,11 +6795,11 @@
         "name":  "IS-1",
         "nameKey":  "Tank_USSR_IS-1_Name",
         "nameByLang":  {
+                           "ru":  "ИС-1",
                            "en":  "IS-1",
-                           "zh-Hans":  "IS-1",
-                           "zh-Hant":  "IS-1",
                            "ja":  "IS-1",
-                           "ru":  "ИС-1"
+                           "zh-Hans":  "IS-1",
+                           "zh-Hant":  "IS-1"
                        },
         "assetName":  "IS-1",
         "tankType":  2,
@@ -6841,11 +6837,11 @@
         "name":  "T-34-85",
         "nameKey":  "Tank_USSR_T-34-85_Name",
         "nameByLang":  {
+                           "ru":  "Т-34-85",
                            "en":  "T-34-85",
-                           "zh-Hans":  "T-34-85",
-                           "zh-Hant":  "T-34-85",
                            "ja":  "T-34-85",
-                           "ru":  "Т-34-85"
+                           "zh-Hans":  "T-34-85",
+                           "zh-Hant":  "T-34-85"
                        },
         "assetName":  "T-34-85",
         "tankType":  0,
@@ -6883,11 +6879,11 @@
         "name":  "T-34-85",
         "nameKey":  "Tank_USSR_T-34-85_Name",
         "nameByLang":  {
+                           "ru":  "Т-34-85",
                            "en":  "T-34-85",
-                           "zh-Hans":  "T-34-85",
-                           "zh-Hant":  "T-34-85",
                            "ja":  "T-34-85",
-                           "ru":  "Т-34-85"
+                           "zh-Hans":  "T-34-85",
+                           "zh-Hant":  "T-34-85"
                        },
         "assetName":  "T-34-85_Elite",
         "tankType":  0,
@@ -6925,11 +6921,11 @@
         "name":  "IS-2 (1944型)",
         "nameKey":  "Tank_USSR_IS-2(1944)_Name",
         "nameByLang":  {
+                           "ru":  "ИС-2 (1944)",
                            "en":  "IS-2 (1944)",
-                           "zh-Hans":  "IS-2 (1944型)",
-                           "zh-Hant":  "IS-2 (1944型)",
                            "ja":  "IS-2 (1944年型)",
-                           "ru":  "ИС-2 (1944)"
+                           "zh-Hans":  "IS-2 (1944型)",
+                           "zh-Hant":  "IS-2 (1944型)"
                        },
         "assetName":  "IS-2(1944)",
         "tankType":  2,
@@ -6967,11 +6963,11 @@
         "name":  "SU-100Y",
         "nameKey":  "Tank_USSR_SU-100Y_Name",
         "nameByLang":  {
+                           "ru":  "СУ-100Y",
                            "en":  "SU-100Y",
-                           "zh-Hans":  "SU-100Y",
-                           "zh-Hant":  "SU-100Y",
                            "ja":  "SU-100Y",
-                           "ru":  "СУ-100Y"
+                           "zh-Hans":  "SU-100Y",
+                           "zh-Hant":  "SU-100Y"
                        },
         "assetName":  "SU-100Y",
         "tankType":  3,
@@ -7009,11 +7005,11 @@
         "name":  "IS-3",
         "nameKey":  "Tank_USSR_IS-3_Name",
         "nameByLang":  {
+                           "ru":  "ИС-3",
                            "en":  "IS-3",
-                           "zh-Hans":  "IS-3",
-                           "zh-Hant":  "IS-3",
                            "ja":  "IS-3",
-                           "ru":  "ИС-3"
+                           "zh-Hans":  "IS-3",
+                           "zh-Hant":  "IS-3"
                        },
         "assetName":  "IS-3",
         "tankType":  2,
@@ -7051,11 +7047,11 @@
         "name":  "T-44",
         "nameKey":  "Tank_USSR_T-44_Name",
         "nameByLang":  {
+                           "ru":  "T-44",
                            "en":  "T-44",
-                           "zh-Hans":  "T-44",
-                           "zh-Hant":  "T-44",
                            "ja":  "T-44",
-                           "ru":  "T-44"
+                           "zh-Hans":  "T-44",
+                           "zh-Hant":  "T-44"
                        },
         "assetName":  "T-44",
         "tankType":  0,
@@ -7093,11 +7089,11 @@
         "name":  "T-44",
         "nameKey":  "Tank_USSR_T-44_Name",
         "nameByLang":  {
+                           "ru":  "T-44",
                            "en":  "T-44",
-                           "zh-Hans":  "T-44",
-                           "zh-Hant":  "T-44",
                            "ja":  "T-44",
-                           "ru":  "T-44"
+                           "zh-Hans":  "T-44",
+                           "zh-Hant":  "T-44"
                        },
         "assetName":  "T-44_Elite",
         "tankType":  0,
@@ -7135,11 +7131,11 @@
         "name":  "KV-2-2-2",
         "nameKey":  "Tank_USSR_KV-2-2-2_Name",
         "nameByLang":  {
+                           "ru":  "КВ-2-2-2",
                            "en":  "KV-2-2-2",
-                           "zh-Hans":  "KV-2-2-2",
-                           "zh-Hant":  "KV-2-2-2",
                            "ja":  "KV-2-2-2",
-                           "ru":  "КВ-2-2-2"
+                           "zh-Hans":  "KV-2-2-2",
+                           "zh-Hant":  "KV-2-2-2"
                        },
         "assetName":  "KV-2-2-2",
         "tankType":  6,
@@ -7177,11 +7173,11 @@
         "name":  "白鼬",
         "nameKey":  "Tank_Germany_Pz.III Z_Name",
         "nameByLang":  {
+                           "ru":  "Эрмелина",
                            "en":  "Hermelin",
-                           "zh-Hans":  "白鼬",
-                           "zh-Hant":  "白鼬",
                            "ja":  "ヘルメリーン",
-                           "ru":  "Эрмелина"
+                           "zh-Hans":  "白鼬",
+                           "zh-Hant":  "白鼬"
                        },
         "assetName":  "Pz.III Z",
         "tankType":  0,
@@ -7219,11 +7215,11 @@
         "name":  "白虎",
         "nameKey":  "Tank_Germany_WhiteTiger_Name",
         "nameByLang":  {
+                           "ru":  "«Белый тигр»",
                            "en":  "White Tiger",
-                           "zh-Hans":  "白虎",
-                           "zh-Hant":  "白虎",
                            "ja":  "ホワイトタイガー",
-                           "ru":  "«Белый тигр»"
+                           "zh-Hans":  "白虎",
+                           "zh-Hant":  "白虎"
                        },
         "assetName":  "WhiteTiger",
         "tankType":  2,
@@ -7261,11 +7257,11 @@
         "name":  "KV-6",
         "nameKey":  "Tank_USSR_KV-6_Name",
         "nameByLang":  {
+                           "ru":  "КВ-6",
                            "en":  "KV-6",
-                           "zh-Hans":  "KV-6",
-                           "zh-Hant":  "KV-6",
                            "ja":  "KV-6",
-                           "ru":  "КВ-6"
+                           "zh-Hans":  "KV-6",
+                           "zh-Hant":  "KV-6"
                        },
         "assetName":  "KV-6",
         "tankType":  2,
@@ -7303,11 +7299,11 @@
         "name":  "A1E1\"独立\"",
         "nameKey":  "Tank_UK_A1E1_Name",
         "nameByLang":  {
+                           "ru":  "A1E1",
                            "en":  "A1E1",
-                           "zh-Hans":  "A1E1\"独立\"",
-                           "zh-Hant":  "A1E1獨立號重戰車",
                            "ja":  "A1E1",
-                           "ru":  "A1E1"
+                           "zh-Hans":  "A1E1\"独立\"",
+                           "zh-Hant":  "A1E1獨立號重戰車"
                        },
         "assetName":  "A1E1",
         "tankType":  2,
@@ -7345,11 +7341,11 @@
         "name":  "夏尔2C",
         "nameKey":  "Tank_France_Char2C_Name",
         "nameByLang":  {
+                           "ru":  "Char 2C",
                            "en":  "Char 2C",
-                           "zh-Hans":  "夏尔2C",
-                           "zh-Hant":  "夏爾2C超重型坦克",
                            "ja":  "シャール2C",
-                           "ru":  "Char 2C"
+                           "zh-Hans":  "夏尔2C",
+                           "zh-Hant":  "夏爾2C超重型坦克"
                        },
         "assetName":  "Char2C",
         "tankType":  2,
@@ -7387,11 +7383,11 @@
         "name":  "夏尔BB",
         "nameKey":  "Tank_France_CharBB_Name",
         "nameByLang":  {
+                           "ru":  "Char BB",
                            "en":  "Char BB",
-                           "zh-Hans":  "夏尔BB",
-                           "zh-Hant":  "夏爾BB",
                            "ja":  "シャールBB",
-                           "ru":  "Char BB"
+                           "zh-Hans":  "夏尔BB",
+                           "zh-Hant":  "夏爾BB"
                        },
         "assetName":  "CharBB",
         "tankType":  2,
@@ -7429,11 +7425,11 @@
         "name":  "巡洋坦克1型",
         "nameKey":  "Tank_UK_Cruiser_MkI_Name",
         "nameByLang":  {
+                           "ru":  "Cruiser Mk.I",
                            "en":  "Cruiser Mk I",
-                           "zh-Hans":  "巡洋坦克1型",
-                           "zh-Hant":  "巡航坦克1型",
                            "ja":  "巡航戦車Mk.I",
-                           "ru":  "Cruiser Mk.I"
+                           "zh-Hans":  "巡洋坦克1型",
+                           "zh-Hant":  "巡航坦克1型"
                        },
         "assetName":  "Cruiser_MkI",
         "tankType":  1,
@@ -7471,11 +7467,11 @@
         "name":  "M2A2",
         "nameKey":  "Tank_US_M2A2_Name",
         "nameByLang":  {
+                           "ru":  "M2A2",
                            "en":  "M2A2",
-                           "zh-Hans":  "M2A2",
-                           "zh-Hant":  "M2A2",
                            "ja":  "M2A2",
-                           "ru":  "M2A2"
+                           "zh-Hans":  "M2A2",
+                           "zh-Hant":  "M2A2"
                        },
         "assetName":  "M2A2",
         "tankType":  1,
@@ -7513,11 +7509,11 @@
         "name":  "NbFz",
         "nameKey":  "Tank_Germany_NbFz_Name",
         "nameByLang":  {
+                           "ru":  "NbFz",
                            "en":  "NbFz",
-                           "zh-Hans":  "NbFz",
-                           "zh-Hant":  "NbFz重戰車",
                            "ja":  "Nb.Fz.",
-                           "ru":  "NbFz"
+                           "zh-Hans":  "NbFz",
+                           "zh-Hant":  "NbFz重戰車"
                        },
         "assetName":  "NbFz",
         "tankType":  0,
@@ -7555,11 +7551,11 @@
         "name":  "T-28",
         "nameKey":  "Tank_USSR_T-28_Name",
         "nameByLang":  {
+                           "ru":  "Т-28",
                            "en":  "T-28",
-                           "zh-Hans":  "T-28",
-                           "zh-Hant":  "T-28",
                            "ja":  "T-28",
-                           "ru":  "Т-28"
+                           "zh-Hans":  "T-28",
+                           "zh-Hant":  "T-28"
                        },
         "assetName":  "T-28",
         "tankType":  0,
@@ -7597,11 +7593,11 @@
         "name":  "T-35",
         "nameKey":  "Tank_USSR_T-35_Name",
         "nameByLang":  {
+                           "ru":  "Т-35",
                            "en":  "T-35",
-                           "zh-Hans":  "T-35",
-                           "zh-Hant":  "T-35重型坦克",
                            "ja":  "T-35",
-                           "ru":  "Т-35"
+                           "zh-Hans":  "T-35",
+                           "zh-Hant":  "T-35重型坦克"
                        },
         "assetName":  "T-35",
         "tankType":  2,
@@ -7639,11 +7635,11 @@
         "name":  "九五式重战车",
         "nameKey":  "Tank_Japan_Type95Heavy_Name",
         "nameByLang":  {
+                           "ru":  "Ro-Go",
                            "en":  "Ro-Go",
-                           "zh-Hans":  "九五式重战车",
-                           "zh-Hant":  "九五式重戰車",
                            "ja":  "九五式重戦車",
-                           "ru":  "Ro-Go"
+                           "zh-Hans":  "九五式重战车",
+                           "zh-Hant":  "九五式重戰車"
                        },
         "assetName":  "Type95Heavy",
         "tankType":  2,
@@ -7681,11 +7677,11 @@
         "name":  "夏尔2C bis",
         "nameKey":  "Tank_France_Char2C_Bis_Name",
         "nameByLang":  {
+                           "ru":  "Char 2C bis",
                            "en":  "Char 2C bis",
-                           "zh-Hans":  "夏尔2C bis",
-                           "zh-Hant":  "夏爾2C bis",
                            "ja":  "シャール2C bis",
-                           "ru":  "Char 2C bis"
+                           "zh-Hans":  "夏尔2C bis",
+                           "zh-Hant":  "夏爾2C bis"
                        },
         "assetName":  "Char2C_Bis",
         "tankType":  6,
@@ -7723,11 +7719,11 @@
         "name":  "T-35指挥型",
         "nameKey":  "Tank_USSR_T-35 M1939_Name",
         "nameByLang":  {
+                           "ru":  "Т-35 обр. 1939",
                            "en":  "T-35 M1939",
-                           "zh-Hans":  "T-35指挥型",
-                           "zh-Hant":  "T-35指揮型",
                            "ja":  "T-35指揮戦車",
-                           "ru":  "Т-35 обр. 1939"
+                           "zh-Hans":  "T-35指挥型",
+                           "zh-Hant":  "T-35指揮型"
                        },
         "assetName":  "T-35 M1939",
         "tankType":  2,
@@ -7765,11 +7761,11 @@
         "name":  "FCM F1",
         "nameKey":  "Tank_France_FCM F1_Name",
         "nameByLang":  {
+                           "ru":  "FCM F1",
                            "en":  "FCM F1",
-                           "zh-Hans":  "FCM F1",
-                           "zh-Hant":  "FCM F1",
                            "ja":  "FCM F1",
-                           "ru":  "FCM F1"
+                           "zh-Hans":  "FCM F1",
+                           "zh-Hant":  "FCM F1"
                        },
         "assetName":  "FCM F1",
         "tankType":  2,
@@ -7807,11 +7803,11 @@
         "name":  "公羊1型",
         "nameKey":  "Tank_Canada_Ram_I_Name",
         "nameByLang":  {
+                           "ru":  "Ram I",
                            "en":  "Ram I",
-                           "zh-Hans":  "公羊1型",
-                           "zh-Hant":  "白羊I型",
                            "ja":  "ラム巡航戦車Mk.I",
-                           "ru":  "Ram I"
+                           "zh-Hans":  "公羊1型",
+                           "zh-Hant":  "白羊I型"
                        },
         "assetName":  "Ram_I",
         "tankType":  0,
@@ -7849,11 +7845,11 @@
         "name":  "SMK",
         "nameKey":  "Tank_USSR_SMK_Name",
         "nameByLang":  {
+                           "ru":  "СМК",
                            "en":  "SMK",
-                           "zh-Hans":  "SMK",
-                           "zh-Hant":  "SMK",
                            "ja":  "SMK",
-                           "ru":  "СМК"
+                           "zh-Hans":  "SMK",
+                           "zh-Hant":  "SMK"
                        },
         "assetName":  "SMK",
         "tankType":  2,
@@ -7891,11 +7887,11 @@
         "name":  "十字军2型",
         "nameKey":  "Tank_UK_Crusader_II_Name",
         "nameByLang":  {
+                           "ru":  "Crusader II",
                            "en":  "Crusader II",
-                           "zh-Hans":  "十字军2型",
-                           "zh-Hant":  "十字軍Ⅱ",
                            "ja":  "クルセーダーMk.II",
-                           "ru":  "Crusader II"
+                           "zh-Hans":  "十字军2型",
+                           "zh-Hant":  "十字軍Ⅱ"
                        },
         "assetName":  "Crusader_II",
         "tankType":  1,
@@ -7933,11 +7929,11 @@
         "name":  "T-100Z",
         "nameKey":  "Tank_USSR_T-100Z_Name",
         "nameByLang":  {
+                           "ru":  "Т-100Z",
                            "en":  "T-100Z",
-                           "zh-Hans":  "T-100Z",
-                           "zh-Hant":  "T-100Z",
                            "ja":  "T-100Z",
-                           "ru":  "Т-100Z"
+                           "zh-Hans":  "T-100Z",
+                           "zh-Hant":  "T-100Z"
                        },
         "assetName":  "T-100Z",
         "tankType":  2,
@@ -7975,11 +7971,11 @@
         "name":  "T-28(F-30)",
         "nameKey":  "Tank_USSR_T-28(F-30)_Name",
         "nameByLang":  {
+                           "ru":  "T-28(Ф-30)",
                            "en":  "T-28(F-30)",
-                           "zh-Hans":  "T-28(F-30)",
-                           "zh-Hant":  "T-28(F-30)",
                            "ja":  "T-28(F-30)",
-                           "ru":  "T-28(Ф-30)"
+                           "zh-Hans":  "T-28(F-30)",
+                           "zh-Hant":  "T-28(F-30)"
                        },
         "assetName":  "T-28(F-30)",
         "tankType":  0,
@@ -8017,11 +8013,11 @@
         "name":  "试制超重战车",
         "nameKey":  "Tank_Japan_O-I_Name",
         "nameByLang":  {
+                           "ru":  "O-I",
                            "en":  "O-I",
-                           "zh-Hans":  "试制超重战车",
-                           "zh-Hant":  "O-I",
                            "ja":  "オイ",
-                           "ru":  "O-I"
+                           "zh-Hans":  "试制超重战车",
+                           "zh-Hant":  "O-I"
                        },
         "assetName":  "O-I",
         "tankType":  2,
@@ -8059,11 +8055,11 @@
         "name":  "103工程",
         "nameKey":  "Tank_USSR_Object103_Name",
         "nameByLang":  {
+                           "ru":  "Объект 103",
                            "en":  "Object 103",
-                           "zh-Hans":  "103工程",
-                           "zh-Hant":  "103工程",
                            "ja":  "オブイエークト103",
-                           "ru":  "Объект 103"
+                           "zh-Hans":  "103工程",
+                           "zh-Hant":  "103工程"
                        },
         "assetName":  "Object103",
         "tankType":  3,
@@ -8101,11 +8097,11 @@
         "name":  "T-39",
         "nameKey":  "Tank_USSR_T-39_Name",
         "nameByLang":  {
+                           "ru":  "T-39",
                            "en":  "T-39",
-                           "zh-Hans":  "T-39",
-                           "zh-Hant":  "T-39",
                            "ja":  "T-39",
-                           "ru":  "T-39"
+                           "zh-Hans":  "T-39",
+                           "zh-Hant":  "T-39"
                        },
         "assetName":  "T-39",
         "tankType":  2,
