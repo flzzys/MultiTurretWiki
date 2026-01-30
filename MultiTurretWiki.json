@@ -1592,14 +1592,14 @@
         "maxSpeed":  39
     },
     {
-        "name":  "\"Brummb\\xE4r\"",
-        "nameKey":  "\"Tank_Germany_Brummb\\xE4r_Name\"",
+        "name":  "Brummbar",
+        "nameKey":  "Tank_Germany_Brummbar",
         "nameByLang":  {
-                           "en":  "\"Brummb\\xE4r\"",
-                           "zh-Hans":  "\"Brummb\\xE4r\"",
-                           "zh-Hant":  "\"Brummb\\xE4r\"",
-                           "ja":  "\"Brummb\\xE4r\"",
-                           "ru":  "\"Brummb\\xE4r\""
+                           "en":  "Brummbar",
+                           "zh-Hans":  "Brummbar",
+                           "zh-Hant":  "Brummbar",
+                           "ja":  "Brummbar",
+                           "ru":  "Brummbar"
                        },
         "assetName":  "Brummbär",
         "tankType":  6,
@@ -8140,3 +8140,5 @@
         "maxSpeed":  33
     }
 ]
+
+

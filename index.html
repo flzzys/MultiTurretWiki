@@ -1822,14 +1822,14 @@
         "maxSpeed":  39
     },
     {
-        "name":  "\"Brummb\\xE4r\"",
-        "nameKey":  "\"Tank_Germany_Brummb\\xE4r_Name\"",
+        "name":  "Brummbär",
+        "nameKey":  "Tank_Germany_Brummbär_Name",
         "nameByLang":  {
-                           "en":  "\"Brummb\\xE4r\"",
-                           "zh-Hans":  "\"Brummb\\xE4r\"",
-                           "zh-Hant":  "\"Brummb\\xE4r\"",
-                           "ja":  "\"Brummb\\xE4r\"",
-                           "ru":  "\"Brummb\\xE4r\""
+                           "en":  "Brummbär",
+                           "zh-Hans":  "Brummbär",
+                           "zh-Hant":  "Brummbär",
+                           "ja":  "Brummbär",
+                           "ru":  "Brummbär"
                        },
         "assetName":  "Brummbär",
         "tankType":  6,
@@ -8503,7 +8503,6 @@
     4: "Anti-Aircraft",
     6: "Self-Propelled Gun",
     7: "Support Vehicle",
-    8: "Field Artillery",
     10: "Multi Turret Tank"
   },
   "zh-Hans": {
@@ -8514,7 +8513,6 @@
     4: "防空车",
     6: "自行火炮",
     7: "支援载具",
-    8: "野战炮",
     10: "多炮塔坦克"
   },
   "zh-Hant": {
@@ -8525,7 +8523,6 @@
     4: "防空車",
     6: "自走炮",
     7: "支援載具",
-    8: "野战炮",
     10: "多炮塔坦克"
   },
   "ja": {
@@ -8536,7 +8533,6 @@
     4: "対空戦車",
     6: "自走砲",
     7: "支援車両",
-    8: "野戦砲",
     10: "多砲塔戦車"
   },
   "ru": {
@@ -8547,9 +8543,16 @@
     4: "Зенитная установка",
     6: "Самоходная артиллерия",
     7: "Машина поддержки",
-    8: "Field Artillery",
     10: "Многобашенный танк"
   }
+};
+
+const SPECIAL_LABELS_BY_LANG = {
+  "en": "Special",
+  "zh-Hans": "特殊载具",
+  "zh-Hant": "特殊載具",
+  "ja": "びっくりどっきり",
+  "ru": "Необычные"
 };
 
       const NATION_LABELS_BY_LANG = {
@@ -8730,7 +8733,10 @@
         if (typeId === "ALL") return t("all");
         if (typeId === "BOSS") return t("boss");
         if (typeId === "MTT") return t("mtt");
-        if (typeId === "SPECIAL") return t("special");
+        if (typeId === "SPECIAL") {
+          const labels = SPECIAL_LABELS_BY_LANG || {};
+          return labels[state.lang] || labels["zh-Hans"] || t("special");
+        }
         const labels = TYPE_LABELS_BY_LANG[state.lang] || TYPE_LABELS_BY_LANG["zh-Hans"];
         return labels[typeId] || `Type ${typeId}`;
       }
@@ -9149,6 +9155,8 @@
     </script>
   </body>
 </html>
+
+
 
 
 
